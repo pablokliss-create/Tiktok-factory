@@ -1,0 +1,67 @@
+{
+  "id": "20261028-210059-63a556370175d71b",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:00:59.351756+00:00",
+  "published_at": "2026-10-28T18:47:27+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use.",
+  "angle": "Curiosidade e impacto de Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Gemini 4 Carbon is essentially a slightly better version of Argon. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use.",
+      "visual_direction": "High impact visual representing Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Google",
+    "announces",
+    "Gemini",
+    "Carbon",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

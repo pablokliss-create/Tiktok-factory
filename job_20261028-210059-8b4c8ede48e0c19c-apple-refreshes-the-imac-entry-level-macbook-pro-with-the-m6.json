@@ -1,0 +1,67 @@
+{
+  "id": "20261028-210059-8b4c8ede48e0c19c",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:00:59.351756+00:00",
+  "published_at": "2026-10-27T22:37:30+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+  "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip.",
+  "angle": "Curiosidade e impacto de Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+  "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip.",
+      "visual_direction": "High impact visual representing Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Apple",
+    "refreshes",
+    "iMac",
+    "entry",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

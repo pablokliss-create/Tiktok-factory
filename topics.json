@@ -1,18 +1,47 @@
 {
   "channel": {
-    "name": "Tecnologia e IA",
+    "name": "Curiosidade Tech & Ciência",
     "language": "pt-BR",
-    "max_queue_items_per_run": 3
+    "max_queue_items_per_run": 5,
+    "max_age_hours": 168,
+    "ideal_age_hours": 72
   },
-  "keywords": {
-    "high": ["inteligência artificial", "IA", "OpenAI", "Google", "Gemini", "Claude", "Roblox", "tecnologia", "chip", "robot"],
-    "medium": ["software", "aplicativo", "internet", "celular", "computador", "segurança", "games"],
-    "negative": ["futebol", "celebridade", "fofoca", "apostas", "cassino"]
-  },
+  "categories": [
+    "ia",
+    "ciencia",
+    "espaco",
+    "robotica",
+    "seguranca_internet",
+    "games_cultura",
+    "curiosidades_tech"
+  ],
   "feeds": [
-    "https://feeds.feedburner.com/TechCrunch/",
-    "https://www.theverge.com/rss/index.xml",
-    "https://www.wired.com/feed/rss",
-    "https://news.google.com/rss/search?q=artificial%20intelligence&hl=en-US&gl=US&ceid=US:en"
+    { "name": "Ars Technica", "category": "curiosidades_tech", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+    { "name": "The Verge", "category": "ia", "url": "https://www.theverge.com/rss/index.xml" },
+    { "name": "Wired", "category": "seguranca_internet", "url": "https://www.wired.com/feed/rss" },
+    { "name": "TechCrunch", "category": "curiosidades_tech", "url": "https://techcrunch.com/feed/" },
+    { "name": "MIT Technology Review", "category": "ia", "url": "https://www.technologyreview.com/feed/" },
+    { "name": "Phys.org Science", "category": "ciencia", "url": "https://phys.org/rss-feed/science-news/" },
+    { "name": "NASA News", "category": "espaco", "url": "https://www.nasa.gov/news-release/feed/" },
+    { "name": "BleepingComputer", "category": "seguranca_internet", "url": "https://www.bleepingcomputer.com/feed/" }
+  ],
+  "negative_patterns": [
+    "\\b\\d+\\s+best\\b",
+    "\\btop\\s+\\d+\\b",
+    "\\breview\\b",
+    "\\bdeals?\\b",
+    "\\bdiscount\\b",
+    "\\bcoupon\\b",
+    "\\bpricing\\b",
+    "\\baffiliate\\b",
+    "\\bmelhores\\s+\\d+\\b",
+    "\\banálise\\s+completa\\b",
+    "\\bvale\\s+a\\s+pena\\b",
+    "futebol",
+    "celebridade",
+    "fofoca",
+    "apostas",
+    "cassino",
+    "horóscopo"
   ]
 }

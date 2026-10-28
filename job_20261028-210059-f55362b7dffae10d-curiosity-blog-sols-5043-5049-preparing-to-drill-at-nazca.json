@@ -1,0 +1,67 @@
+{
+  "id": "20261028-210059-f55362b7dffae10d",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:00:59.351756+00:00",
+  "published_at": "2026-10-28T05:39:46+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+  "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’.",
+  "angle": "Curiosidade e impacto de Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
+  "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has returned to a spot just a few meters away from the “Chiu Chiu” block to conduct our next drill campaign. “Chiu Chiu” itself wasn’t a good candidate for […]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’.",
+      "visual_direction": "High impact visual representing Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, Oct. 16, 2026 Following the Basque Lakes drill campaign, Curiosity has r",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Curiosity",
+    "Blog",
+    "Sols",
+    "5043",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’ | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
