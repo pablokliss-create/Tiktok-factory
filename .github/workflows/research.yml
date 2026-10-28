@@ -1,1 +1,38 @@
+name: TikTok Factory - Editorial Research
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 11,13,15,17,19 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build editorial queue
+        run: python research.py
+
+      - name: Commit new jobs
+        run: |
+          git config user.name "TikTok Factory Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No new topics."
+          else
+            git commit -m "chore: update editorial queue"
+            git push
+          fi
