@@ -1,6 +1,6 @@
 {
   "id": "20261028-210059-cbea0c19ea9077ad",
-  "status": "ready_for_production",
+  "status": "completed",
   "created_at": "2026-10-28T21:00:59.351756+00:00",
   "published_at": "2026-10-28T18:59:44+00:00",
   "language": "pt-BR",
@@ -9,27 +9,27 @@
   "category": "espaco",
   "topic": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
   "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
-  "hook": "Isso acabou de acontecer na ciência e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy.",
+  "hook": "Isso acabou de acontecer na ciÃªncia e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy.",
   "angle": "Curiosidade e impacto de Artemis III SLS Core Stage Joins Boosters at Kennedy",
-  "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;].",
-  "script": "Isso acabou de acontecer na ciência e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "summary": "NASAâ€™s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Buildingâ€™s High Bay 3 at NASAâ€™s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facilityâ€™s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;].",
+  "script": "Isso acabou de acontecer na ciÃªncia e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy. De acordo com relatÃ³rios publicados pela NASA News, os novos dados confirmam: NASAâ€™s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Buildingâ€™s High Bay 3 at NASAâ€™s Kennedy Space Center in Florida. &#160; Technicians lifted the 212-foot rocket stage from the facilityâ€™s High Bay 2 using a one-of-a kind lifting beam designed [&#8230;]. Isso muda completamente o cenÃ¡rio porque abre portas para aplicaÃ§Ãµes que antes pareciam distantes. Acompanhe o canal para as prÃ³ximas atualizaÃ§Ãµes desta histÃ³ria.",
   "scene_plan": [
     {
       "scene": 1,
       "duration_seconds": 6,
-      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy.",
+      "voice_line": "Isso acabou de acontecer na ciÃªncia e tecnologia: Artemis III SLS Core Stage Joins Boosters at Kennedy.",
       "visual_direction": "High impact visual representing Artemis III SLS Core Stage Joins Boosters at Kennedy, cinematic lighting."
     },
     {
       "scene": 2,
       "duration_seconds": 18,
-      "voice_line": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’",
+      "voice_line": "NASAâ€™s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Buildingâ€™s High Bay 3 at NASAâ€™",
       "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
     },
     {
       "scene": 3,
       "duration_seconds": 12,
-      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "voice_line": "O ponto central Ã© o impacto prÃ¡tico dessa revelaÃ§Ã£o para o futuro imediato.",
       "visual_direction": "Modern futuristic environment, dynamic transitions."
     }
   ],
@@ -63,5 +63,8 @@
     "voice_name": "pt-BR-AntonioNeural",
     "video_aspect": "9:16",
     "duration_target_seconds": 45
-  }
+  },
+  "error": "MPT failed (exit code 2): E_COLOR] [--font-size FONT_SIZE]\n              [--stroke-color STROKE_COLOR] [--stroke-width STROKE_WIDTH]\n              [--subtitle-background-enabled | --no-subtitle-background-enabled]\n              [--subtitle-background-color SUBTITLE_BACKGROUND_COLOR]\n              [--rounded-subtitle-background | --no-rounded-subtitle-background]\n              [--task-id TASK_ID | --batch-file PATH]\ncli.py: error: argument --task-id: task-id must be a valid UUID, got 'mpt-20261028-210059-cbea0c19ea9077ad'",
+  "rendered_video_path": "D:\\Desktop\\TikTokFactory\\output\\20261028-210059-cbea0c19ea9077ad_artemis_iii_sls_core_stage_joins_booster.mp4",
+  "completed_at": "2026-10-28T21:06:49.299640+00:00"
 }
