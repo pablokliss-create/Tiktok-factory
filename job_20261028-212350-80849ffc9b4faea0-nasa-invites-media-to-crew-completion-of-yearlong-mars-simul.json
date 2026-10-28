@@ -1,0 +1,67 @@
+{
+  "id": "20261028-212350-80849ffc9b4faea0",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:23:50.265885+00:00",
+  "published_at": "2026-10-27T19:27:22+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+  "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Invites Media to Crew Completion of Yearlong Mars Simulation.",
+  "angle": "Curiosidade e impacto de NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+  "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Invites Media to Crew Completion of Yearlong Mars Simulation. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Invites Media to Crew Completion of Yearlong Mars Simulation.",
+      "visual_direction": "High impact visual representing NASA Invites Media to Crew Completion of Yearlong Mars Simulation, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facili",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Invites",
+    "Media",
+    "Crew",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

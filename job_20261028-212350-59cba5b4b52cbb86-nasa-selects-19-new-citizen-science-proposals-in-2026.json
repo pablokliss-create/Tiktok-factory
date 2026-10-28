@@ -1,0 +1,67 @@
+{
+  "id": "20261028-212350-59cba5b4b52cbb86",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:23:50.265885+00:00",
+  "published_at": "2026-10-28T16:25:29+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "NASA Selects 19 New Citizen Science Proposals in 2026",
+  "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+  "hook": "A história real por trás de NASA Selects 19 New Citizen Science Proposals in 2026 é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de NASA Selects 19 New Citizen Science Proposals in 2026",
+  "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […].",
+  "script": "A história real por trás de NASA Selects 19 New Citizen Science Proposals in 2026 é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, […]. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de NASA Selects 19 New Citizen Science Proposals in 2026 é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing NASA Selects 19 New Citizen Science Proposals in 2026, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically c",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Selects",
+    "Citizen",
+    "Science",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Selects 19 New Citizen Science Proposals in 2026 | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

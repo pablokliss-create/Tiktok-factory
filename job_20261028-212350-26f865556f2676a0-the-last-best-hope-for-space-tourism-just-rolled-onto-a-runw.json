@@ -1,0 +1,67 @@
+{
+  "id": "20261028-212350-26f865556f2676a0",
+  "status": "ready_for_production",
+  "created_at": "2026-10-28T21:23:50.265885+00:00",
+  "published_at": "2026-10-28T19:20:36+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+  "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: The last, best hope for space tourism just rolled onto a runway in Arizona.",
+  "angle": "Curiosidade e impacto de The last, best hope for space tourism just rolled onto a runway in Arizona",
+  "summary": "It has been nearly a year since any space tourism flights occurred.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: The last, best hope for space tourism just rolled onto a runway in Arizona. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: It has been nearly a year since any space tourism flights occurred. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: The last, best hope for space tourism just rolled onto a runway in Arizona.",
+      "visual_direction": "High impact visual representing The last, best hope for space tourism just rolled onto a runway in Arizona, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "It has been nearly a year since any space tourism flights occurred.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "last",
+    "best",
+    "hope",
+    "space",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The last, best hope for space tourism just rolled onto a runway in Arizona | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
