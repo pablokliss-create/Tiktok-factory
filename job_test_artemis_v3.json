@@ -1,0 +1,35 @@
+{
+  "id": "20261028-test-artemis-v3",
+  "status": "completed",
+  "priority": 100,
+  "topic": "NASA Acaba de Juntar o Coração do Foguete Artemis III",
+  "title": "NASA Acaba de Juntar o Coração do Foguete Artemis III",
+  "format": "NOW",
+  "source_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+  "hook": "A NASA acaba de juntar o coração do foguete Artemis Três!",
+  "script": "A NASA acaba de juntar o coração do foguete Artemis Três! No Centro Espacial Kennedy, o gigantesco estágio central tem 65 metros de altura. Ele foi finalmente acoplado aos dois propulsores auxiliares. Técnicos usaram uma viga de içamento inédita. A manobra levantou a estrutura mais potente já feita para levar humanos à Lua. Esse marco conclui a espinha dorsal do foguete do Polo Sul lunar. Será que a missão decola dentro do prazo em 2026? Comente sua opinião e siga para acompanhar cada passo dessa jornada.",
+  "caption": "A NASA concluiu a montagem do coração do foguete Artemis III! 🚀🌕 | Fatos verificados via NASA",
+  "hashtags": [
+    "#artemis",
+    "#nasa",
+    "#espaco",
+    "#curiosidades",
+    "#tecnologia",
+    "#fatosreais"
+  ],
+  "production": {
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "subtitle_enabled": true,
+    "subtitle_position": "custom",
+    "custom_position": 75,
+    "font_size": 60,
+    "video_concat_mode": "sequential",
+    "video_clip_duration": 4,
+    "video_transition_mode": "none",
+    "publishing_status": "disabled_by_default"
+  },
+  "rendered_video_path": "D:\\Desktop\\TikTokFactory\\output\\20261028-test-artemis-v3_nasa_acaba_de_juntar_o_cora_o_do_foguete.mp4",
+  "qa_status": "PASS",
+  "completed_at": "2026-10-28T23:46:44.449841+00:00"
+}
