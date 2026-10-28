@@ -1,0 +1,18 @@
+{
+  "channel": {
+    "name": "Tecnologia e IA",
+    "language": "pt-BR",
+    "max_queue_items_per_run": 3
+  },
+  "keywords": {
+    "high": ["inteligência artificial", "IA", "OpenAI", "Google", "Gemini", "Claude", "Roblox", "tecnologia", "chip", "robot"],
+    "medium": ["software", "aplicativo", "internet", "celular", "computador", "segurança", "games"],
+    "negative": ["futebol", "celebridade", "fofoca", "apostas", "cassino"]
+  },
+  "feeds": [
+    "https://feeds.feedburner.com/TechCrunch/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.wired.com/feed/rss",
+    "https://news.google.com/rss/search?q=artificial%20intelligence&hl=en-US&gl=US&ceid=US:en"
+  ]
+}
