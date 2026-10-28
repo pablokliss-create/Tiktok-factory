@@ -1,0 +1,88 @@
+{
+  "id": "20261028-test-artemis-v2",
+  "status": "completed",
+  "created_at": "2026-10-28T21:40:00.000000+00:00",
+  "published_at": "2026-10-28T18:59:44+00:00",
+  "language": "pt-BR",
+  "score": 98,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Acaba de Juntar o Coração do Foguete Artemis III",
+  "title": "NASA Acaba de Juntar o Coração do Foguete Artemis III",
+  "hook": "A NASA acaba de juntar o coração do foguete Artemis Três!",
+  "angle": "Conclusão da montagem da espinha dorsal do foguete lunar SLS",
+  "summary": "No Centro Espacial Kennedy, o gigantesco estágio central de 65 metros de altura do SLS foi acoplado aos dois propulsores auxiliares para a histórica missão que levará astronautas de volta à Lua.",
+  "script": "A NASA acaba de juntar o coração do foguete Artemis Três! No Centro Espacial Kennedy, o gigantesco estágio central de 65 metros de altura foi finalmente acoplado aos dois propulsores auxiliares. Técnicos usaram uma viga de içamento inédita para levantar a estrutura mais potente já montada para levar astronautas de volta à Lua. Esse marco conclui a espinha dorsal do foguete que vai pousar no Polo Sul lunar. Será que a missão decola dentro do prazo em 2026? Comente sua opinião e siga para acompanhar cada passo dessa jornada.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 3,
+      "voice_line": "A NASA acaba de juntar o coração do foguete Artemis Três!",
+      "visual_direction": "Huge high contrast breaking headline, yellow and white text."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 8,
+      "voice_line": "No Centro Espacial Kennedy, o gigantesco estágio central de 65 metros foi acoplado aos propulsores.",
+      "visual_direction": "Real NASA photograph of the SLS core stage being integrated."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 10,
+      "voice_line": "Técnicos usaram uma viga de içamento inédita para erguer a estrutura sem danificar os tanques.",
+      "visual_direction": "Technical infographic with massive 65 METERS and 2 BOOSTERS metrics."
+    },
+    {
+      "scene": 4,
+      "duration_seconds": 8,
+      "voice_line": "Esse marco conclui a espinha dorsal do foguete que vai pousar no Polo Sul lunar.",
+      "visual_direction": "Engineering challenge close up highlighting structural crane operation."
+    },
+    {
+      "scene": 5,
+      "duration_seconds": 6,
+      "voice_line": "A missão levará a humanidade de volta à superfície da Lua.",
+      "visual_direction": "Moon destination graphic with South Pole exploration badge."
+    },
+    {
+      "scene": 6,
+      "duration_seconds": 5,
+      "voice_line": "Será que decola em 2026? Deixe seu comentário e siga para mais novidades.",
+      "visual_direction": "High retention community question and channel CTA card."
+    }
+  ],
+  "visual_keywords": [
+    "Artemis",
+    "SLS",
+    "NASA",
+    "foguete",
+    "Lua",
+    "espaco"
+  ],
+  "caption": "A NASA concluiu a montagem do coração do foguete Artemis III! 🚀🌕 | Fatos verificados via NASA",
+  "hashtags": [
+    "#artemis",
+    "#nasa",
+    "#espaco",
+    "#curiosidades",
+    "#tecnologia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 38
+  },
+  "rendered_video_path": "D:\\Desktop\\TikTokFactory\\output\\20261028-test-artemis-v2_nasa_acaba_de_juntar_o_cora_o_do_foguete.mp4",
+  "qa_status": "PASS",
+  "completed_at": "2026-10-28T21:46:42.553404+00:00"
+}
