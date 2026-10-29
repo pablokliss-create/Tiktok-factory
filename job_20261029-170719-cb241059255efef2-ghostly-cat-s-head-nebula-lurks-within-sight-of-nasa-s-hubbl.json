@@ -1,0 +1,67 @@
+{
+  "id": "20261029-170719-cb241059255efef2",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T17:07:19.610421+00:00",
+  "published_at": "2026-10-29T14:01:01+00:00",
+  "language": "pt-BR",
+  "score": 105,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+  "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb.",
+  "angle": "Curiosidade e impacto de Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+  "summary": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both telescopes observed is nicknamed the Cat’s Head Nebula […]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb.",
+      "visual_direction": "High impact visual representing Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Like a spectral form rising out of a cold mist, NASA’s Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene. It lies within the vast Carina ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Ghostly",
+    "Head",
+    "Nebula",
+    "Lurks",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

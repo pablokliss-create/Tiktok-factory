@@ -1,0 +1,67 @@
+{
+  "id": "20261029-170719-a4a0218240959264",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T17:07:19.610421+00:00",
+  "published_at": "2026-10-28T21:50:01+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+  "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Welcomes Vietnam as Newest Artemis Accords Signatory.",
+  "angle": "Curiosidade e impacto de NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+  "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. &#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Welcomes Vietnam as Newest Artemis Accords Signatory. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. &#160;&#160; “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Welcomes Vietnam as Newest Artemis Accords Signatory.",
+      "visual_direction": "High impact visual representing NASA Welcomes Vietnam as Newest Artemis Accords Signatory, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Welcomes",
+    "Vietnam",
+    "Newest",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20261029-170719-836f957e834a6b25",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T17:07:19.610421+00:00",
+  "published_at": "2026-10-29T13:27:34+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+  "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jared Spiers.",
+  "angle": "Curiosidade e impacto de Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+  "summary": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jared Spiers. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and hearing about his father’s work there, he gained a firsthand connection to the nation’s space program. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jared Spiers.",
+      "visual_direction": "High impact visual representing Contractor to Civil Servant: NASA Welcomes Jared Spiers, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Jared Spiers had an interest in contributing to NASA’s mission long before becoming a civil servant for the agency. Growing up close to NASA’s Stennis Space Center near Bay St. Lou",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Contractor",
+    "Civil",
+    "Servant",
+    "NASA",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Contractor to Civil Servant: NASA Welcomes Jared Spiers | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
