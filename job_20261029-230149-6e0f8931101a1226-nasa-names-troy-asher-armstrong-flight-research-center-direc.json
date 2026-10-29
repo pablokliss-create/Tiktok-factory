@@ -1,0 +1,67 @@
+{
+  "id": "20261029-230149-6e0f8931101a1226",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T23:01:49.209088+00:00",
+  "published_at": "2026-10-29T18:00:35+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+  "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Names Troy Asher Armstrong Flight Research Center Director.",
+  "angle": "Curiosidade e impacto de NASA Names Troy Asher Armstrong Flight Research Center Director",
+  "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Names Troy Asher Armstrong Flight Research Center Director. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Names Troy Asher Armstrong Flight Research Center Director.",
+      "visual_direction": "High impact visual representing NASA Names Troy Asher Armstrong Flight Research Center Director, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace e",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Names",
+    "Troy",
+    "Asher",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Names Troy Asher Armstrong Flight Research Center Director | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

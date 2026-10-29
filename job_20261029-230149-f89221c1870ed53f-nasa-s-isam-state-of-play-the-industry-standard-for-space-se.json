@@ -1,0 +1,67 @@
+{
+  "id": "20261029-230149-f89221c1870ed53f",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T23:01:49.209088+00:00",
+  "published_at": "2026-10-29T15:06:40+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+  "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing.",
+  "angle": "Curiosidade e impacto de NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+  "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. &#8220;We&#8217;ve had some unnamed companies ask if we have any proprietary information,&#8221; says Dale Arney, senior team lead [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. &#8220;We&#8217;ve had some unnamed companies ask if we have any proprietary information,&#8221; says Dale Arney, senior team lead [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing.",
+      "visual_direction": "High impact visual representing NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to com",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "ISAM",
+    "State",
+    "Play",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20261029-230149-41e8c718632c5375",
+  "status": "ready_for_production",
+  "created_at": "2026-10-29T23:01:49.209088+00:00",
+  "published_at": "2026-10-29T11:00:08+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+  "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: SpaceX no longer needs NASA, and that's a problem for America's space agency.",
+  "angle": "Curiosidade e impacto de SpaceX no longer needs NASA, and that's a problem for America's space agency",
+  "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: SpaceX no longer needs NASA, and that's a problem for America's space agency. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: \"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: SpaceX no longer needs NASA, and that's a problem for America's space agency.",
+      "visual_direction": "High impact visual representing SpaceX no longer needs NASA, and that's a problem for America's space agency, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "SpaceX",
+    "longer",
+    "needs",
+    "NASA",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "SpaceX no longer needs NASA, and that's a problem for America's space agency | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
