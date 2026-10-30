@@ -1,0 +1,67 @@
+{
+  "id": "20261030-165028-10855b75be1035f8",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T16:50:28.005761+00:00",
+  "published_at": "2026-10-30T15:56:26+00:00",
+  "language": "pt-BR",
+  "score": 105,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+  "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA’s James Webb Space Telescope Captures Eerie Cat’s Head.",
+  "angle": "Curiosidade e impacto de NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+  "summary": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA’s James Webb Space Telescope Captures Eerie Cat’s Head. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA’s James Webb Space Telescope Captures Eerie Cat’s Head.",
+      "visual_direction": "High impact visual representing NASA’s James Webb Space Telescope Captures Eerie Cat’s Head, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Intricate structures within the Cat&#8217;s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. The distinctive “cat’s hea",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "James",
+    "Webb",
+    "Space",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

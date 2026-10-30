@@ -1,0 +1,67 @@
+{
+  "id": "20261030-165028-8d1638a5c7e9c7f0",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T16:50:28.005761+00:00",
+  "published_at": "2026-10-30T14:51:21+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+  "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Explores Potential Commercial Servicing for Hubble Telescope.",
+  "angle": "Curiosidade e impacto de NASA Explores Potential Commercial Servicing for Hubble Telescope",
+  "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Explores Potential Commercial Servicing for Hubble Telescope. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Explores Potential Commercial Servicing for Hubble Telescope.",
+      "visual_direction": "High impact visual representing NASA Explores Potential Commercial Servicing for Hubble Telescope, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Explores",
+    "Potential",
+    "Commercial",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Explores Potential Commercial Servicing for Hubble Telescope | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
