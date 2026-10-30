@@ -1,0 +1,67 @@
+{
+  "id": "20261030-211022-ce5562c5c3199d15",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T21:10:22.418077+00:00",
+  "published_at": "2026-10-29T21:44:23+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Halloween Aboard the International Space Station",
+  "title": "Halloween Aboard the International Space Station",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Halloween Aboard the International Space Station.",
+  "angle": "Curiosidade e impacto de Halloween Aboard the International Space Station",
+  "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Halloween Aboard the International Space Station. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Halloween Aboard the International Space Station.",
+      "visual_direction": "High impact visual representing Halloween Aboard the International Space Station, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in t",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Halloween",
+    "Aboard",
+    "International",
+    "Space",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Halloween Aboard the International Space Station | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

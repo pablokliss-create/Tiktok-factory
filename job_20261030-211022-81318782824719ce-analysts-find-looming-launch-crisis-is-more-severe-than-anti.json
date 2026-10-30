@@ -1,0 +1,67 @@
+{
+  "id": "20261030-211022-81318782824719ce",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T21:10:22.418077+00:00",
+  "published_at": "2026-10-30T16:12:59+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+  "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Analysts find looming launch crisis is \"more severe\" than anticipated.",
+  "angle": "Curiosidade e impacto de Analysts find looming launch crisis is \"more severe\" than anticipated",
+  "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Analysts find looming launch crisis is \"more severe\" than anticipated. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: There's no evidence that Starship will launch traditional satellites, either. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Analysts find looming launch crisis is \"more severe\" than anticipated.",
+      "visual_direction": "High impact visual representing Analysts find looming launch crisis is \"more severe\" than anticipated, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "There's no evidence that Starship will launch traditional satellites, either.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Analysts",
+    "find",
+    "looming",
+    "launch",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Analysts find looming launch crisis is \"more severe\" than anticipated | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

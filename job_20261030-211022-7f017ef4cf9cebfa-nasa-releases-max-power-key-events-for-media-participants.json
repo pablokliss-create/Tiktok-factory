@@ -1,0 +1,67 @@
+{
+  "id": "20261030-211022-7f017ef4cf9cebfa",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T21:10:22.418077+00:00",
+  "published_at": "2026-10-30T19:31:02+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA Releases MAX POWER Key Events for Media, Participants",
+  "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA Releases MAX POWER Key Events for Media, Participants?",
+  "angle": "Curiosidade e impacto de NASA Releases MAX POWER Key Events for Media, Participants",
+  "summary": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA Releases MAX POWER Key Events for Media, Participants? A explicação técnica revelada pela NASA News é fascinante: AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA Releases MAX POWER Key Events for Media, Participants?",
+      "visual_direction": "High impact visual representing NASA Releases MAX POWER Key Events for Media, Participants, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "AmAmerica’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, ho",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Releases",
+    "POWER",
+    "Events",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Releases MAX POWER Key Events for Media, Participants | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

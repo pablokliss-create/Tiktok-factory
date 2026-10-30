@@ -1,0 +1,67 @@
+{
+  "id": "20261030-211022-dae03520f7221221",
+  "status": "ready_for_production",
+  "created_at": "2026-10-30T21:10:22.418077+00:00",
+  "published_at": "2026-10-30T09:00:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "ia",
+  "topic": "Eating disorders are on the rise. GLP-1s could make things worse.",
+  "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Eating disorders are on the rise. GLP-1s could make things worse..",
+  "angle": "Curiosidade e impacto de Eating disorders are on the rise. GLP-1s could make things worse.",
+  "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Eating disorders are on the rise. GLP-1s could make things worse.. De acordo com relatórios publicados pela MIT Technology Review, os novos dados confirmam: GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Eating disorders are on the rise. GLP-1s could make things worse..",
+      "visual_direction": "High impact visual representing Eating disorders are on the rise. GLP-1s could make things worse., cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Eating",
+    "disorders",
+    "rise",
+    "could",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Eating disorders are on the rise. GLP-1s could make things worse. | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
