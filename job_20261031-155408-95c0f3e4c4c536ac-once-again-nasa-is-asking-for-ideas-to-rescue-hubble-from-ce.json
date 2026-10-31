@@ -1,0 +1,67 @@
+{
+  "id": "20261031-155408-95c0f3e4c4c536ac",
+  "status": "ready_for_production",
+  "created_at": "2026-10-31T15:54:08.994452+00:00",
+  "published_at": "2026-10-31T00:07:22+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+  "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Once again, NASA is asking for ideas to rescue Hubble from certain death.",
+  "angle": "Curiosidade e impacto de Once again, NASA is asking for ideas to rescue Hubble from certain death",
+  "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Once again, NASA is asking for ideas to rescue Hubble from certain death. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Once again, NASA is asking for ideas to rescue Hubble from certain death.",
+      "visual_direction": "High impact visual representing Once again, NASA is asking for ideas to rescue Hubble from certain death, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Once",
+    "again",
+    "NASA",
+    "asking",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Once again, NASA is asking for ideas to rescue Hubble from certain death | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

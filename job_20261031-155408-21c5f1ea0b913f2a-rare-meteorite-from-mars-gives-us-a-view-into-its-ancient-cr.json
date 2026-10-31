@@ -1,0 +1,67 @@
+{
+  "id": "20261031-155408-21c5f1ea0b913f2a",
+  "status": "ready_for_production",
+  "created_at": "2026-10-31T15:54:08.994452+00:00",
+  "published_at": "2026-10-30T18:13:42+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "STORY",
+  "category": "curiosidades_tech",
+  "topic": "Rare meteorite from Mars gives us a view into its ancient crust",
+  "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+  "hook": "A história real por trás de Rare meteorite from Mars gives us a view into its ancient crust é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de Rare meteorite from Mars gives us a view into its ancient crust",
+  "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+  "script": "A história real por trás de Rare meteorite from Mars gives us a view into its ancient crust é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela Ars Technica: A meteorite found in the Sahara is a rare piece of Mars' ancient crust. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de Rare meteorite from Mars gives us a view into its ancient crust é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing Rare meteorite from Mars gives us a view into its ancient crust, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Rare",
+    "meteorite",
+    "from",
+    "Mars",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Rare meteorite from Mars gives us a view into its ancient crust | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

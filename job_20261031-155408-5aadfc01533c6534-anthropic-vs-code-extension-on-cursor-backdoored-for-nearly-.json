@@ -1,0 +1,67 @@
+{
+  "id": "20261031-155408-5aadfc01533c6534",
+  "status": "ready_for_production",
+  "created_at": "2026-10-31T15:54:08.994452+00:00",
+  "published_at": "2026-10-30T21:09:54+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "WHY",
+  "category": "curiosidades_tech",
+  "topic": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Anthropic VS code extension on Cursor backdoored for nearly 12 hours?",
+  "angle": "Curiosidade e impacto de Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+  "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Anthropic VS code extension on Cursor backdoored for nearly 12 hours? A explicação técnica revelada pela Ars Technica é fascinante: It's still unknown how attackers got access to Anthropic's verified Cursor account. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Anthropic VS code extension on Cursor backdoored for nearly 12 hours?",
+      "visual_direction": "High impact visual representing Anthropic VS code extension on Cursor backdoored for nearly 12 hours, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Anthropic",
+    "code",
+    "extension",
+    "Cursor",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
