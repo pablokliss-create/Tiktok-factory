@@ -1,0 +1,67 @@
+{
+  "id": "20261031-202054-e99dd6e2039a86b6",
+  "status": "ready_for_production",
+  "created_at": "2026-10-31T20:20:54.253223+00:00",
+  "published_at": "2026-10-30T22:36:41+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Flesh-eating screwworms spread to third state and are attacking pets",
+  "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Flesh-eating screwworms spread to third state and are attacking pets.",
+  "angle": "Curiosidade e impacto de Flesh-eating screwworms spread to third state and are attacking pets",
+  "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Flesh-eating screwworms spread to third state and are attacking pets. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: USDA has identified 74 animal cases in US since parasitic flies invaded in June. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Flesh-eating screwworms spread to third state and are attacking pets.",
+      "visual_direction": "High impact visual representing Flesh-eating screwworms spread to third state and are attacking pets, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Flesh",
+    "eating",
+    "screwworms",
+    "spread",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Flesh-eating screwworms spread to third state and are attacking pets | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

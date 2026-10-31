@@ -1,0 +1,66 @@
+{
+  "id": "20261031-202054-d0e5d39b975e9813",
+  "status": "ready_for_production",
+  "created_at": "2026-10-31T20:20:54.253223+00:00",
+  "published_at": "2026-10-30T22:21:05+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+  "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Oh captain, our captain: Ars staff remembers Patrick Stewart.",
+  "angle": "Curiosidade e impacto de Oh captain, our captain: Ars staff remembers Patrick Stewart",
+  "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. We created an admirable individual.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Oh captain, our captain: Ars staff remembers Patrick Stewart. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: \"For huge numbers of people, I will always be Jean-Luc Picard. We created an admirable individual. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Oh captain, our captain: Ars staff remembers Patrick Stewart.",
+      "visual_direction": "High impact visual representing Oh captain, our captain: Ars staff remembers Patrick Stewart, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"For huge numbers of people, I will always be Jean-Luc Picard. We created an admirable individual.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "captain",
+    "staff",
+    "remembers",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Oh captain, our captain: Ars staff remembers Patrick Stewart | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
