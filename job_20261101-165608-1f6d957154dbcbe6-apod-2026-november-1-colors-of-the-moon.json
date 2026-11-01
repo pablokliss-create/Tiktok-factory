@@ -1,0 +1,67 @@
+{
+  "id": "20261101-165608-1f6d957154dbcbe6",
+  "status": "ready_for_production",
+  "created_at": "2026-11-01T16:56:08.284372+00:00",
+  "published_at": "2026-11-01T04:05:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "APOD: 2026 November 1 – Colors of the Moon",
+  "title": "APOD: 2026 November 1 – Colors of the Moon",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 1 – Colors of the Moon.",
+  "angle": "Curiosidade e impacto de APOD: 2026 November 1 – Colors of the Moon",
+  "summary": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 1 – Colors of the Moon. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 1 – Colors of the Moon.",
+      "visual_direction": "High impact visual representing APOD: 2026 November 1 – Colors of the Moon, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "APOD",
+    "2026",
+    "November",
+    "Colors",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "APOD: 2026 November 1 – Colors of the Moon | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20261101-165608-588c51e5eaee4298",
+  "status": "ready_for_production",
+  "created_at": "2026-11-01T16:56:08.284372+00:00",
+  "published_at": "2026-10-31T21:36:07+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "WHY",
+  "category": "curiosidades_tech",
+  "topic": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale?",
+  "angle": "Curiosidade e impacto de 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale? A explicação técnica revelada pela TechCrunch é fascinante: On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale?",
+      "visual_direction": "High impact visual representing 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the t",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "days",
+    "left",
+    "TechCrunch",
+    "Founder",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
