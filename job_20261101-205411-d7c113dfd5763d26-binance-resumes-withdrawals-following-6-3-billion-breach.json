@@ -1,0 +1,67 @@
+{
+  "id": "20261101-205411-d7c113dfd5763d26",
+  "status": "ready_for_production",
+  "created_at": "2026-11-01T20:54:11.220979+00:00",
+  "published_at": "2026-11-01T16:20:10+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Binance resumes withdrawals following $6.3 billion breach",
+  "title": "Binance resumes withdrawals following $6.3 billion breach",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Binance resumes withdrawals following $6.3 billion breach.",
+  "angle": "Curiosidade e impacto de Binance resumes withdrawals following $6.3 billion breach",
+  "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Binance resumes withdrawals following $6.3 billion breach. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: The cryptocurrency exchange said it's now covered 95% of the stolen assets. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Binance resumes withdrawals following $6.3 billion breach.",
+      "visual_direction": "High impact visual representing Binance resumes withdrawals following $6.3 billion breach, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Binance",
+    "resumes",
+    "withdrawals",
+    "following",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Binance resumes withdrawals following $6.3 billion breach | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

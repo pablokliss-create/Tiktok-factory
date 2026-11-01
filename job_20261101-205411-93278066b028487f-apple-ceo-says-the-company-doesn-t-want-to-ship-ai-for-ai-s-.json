@@ -1,0 +1,67 @@
+{
+  "id": "20261101-205411-93278066b028487f",
+  "status": "ready_for_production",
+  "created_at": "2026-11-01T20:54:11.220979+00:00",
+  "published_at": "2026-10-31T21:41:00+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’.",
+  "angle": "Curiosidade e impacto de Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: Apple's new CEO defended the company's current position in the AI landscape. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’.",
+      "visual_direction": "High impact visual representing Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Apple",
+    "says",
+    "company",
+    "doesn",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
