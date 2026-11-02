@@ -1,0 +1,67 @@
+{
+  "id": "20261102-203237-73845e5c556360b7",
+  "status": "ready_for_production",
+  "created_at": "2026-11-02T20:32:37.420508+00:00",
+  "published_at": "2026-11-02T17:33:22+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+  "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+  "hook": "A história real por trás de NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+  "summary": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, [&#8230;].",
+  "script": "A história real por trás de NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, [&#8230;]. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spa",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Invites",
+    "Media",
+    "Northrop",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

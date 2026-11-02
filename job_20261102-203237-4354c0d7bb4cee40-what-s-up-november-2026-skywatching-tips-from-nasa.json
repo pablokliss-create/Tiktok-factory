@@ -1,0 +1,67 @@
+{
+  "id": "20261102-203237-4354c0d7bb4cee40",
+  "status": "ready_for_production",
+  "created_at": "2026-11-02T20:32:37.420508+00:00",
+  "published_at": "2026-11-02T18:19:58+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "What’s Up: November 2026 Skywatching Tips from NASA",
+  "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre What’s Up: November 2026 Skywatching Tips from NASA?",
+  "angle": "Curiosidade e impacto de What’s Up: November 2026 Skywatching Tips from NASA",
+  "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon. That’s What’s Up for November.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre What’s Up: November 2026 Skywatching Tips from NASA? A explicação técnica revelada pela NASA News é fascinante: Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon. That’s What’s Up for November. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre What’s Up: November 2026 Skywatching Tips from NASA?",
+      "visual_direction": "High impact visual representing What’s Up: November 2026 Skywatching Tips from NASA, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s sup",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "What",
+    "November",
+    "2026",
+    "Skywatching",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "What’s Up: November 2026 Skywatching Tips from NASA | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
