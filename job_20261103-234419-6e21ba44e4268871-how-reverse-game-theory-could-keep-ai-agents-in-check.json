@@ -1,0 +1,67 @@
+{
+  "id": "20261103-234419-6e21ba44e4268871",
+  "status": "ready_for_production",
+  "created_at": "2026-11-03T23:44:19.680081+00:00",
+  "published_at": "2026-11-03T10:43:41+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "ia",
+  "topic": "How “reverse game theory” could keep AI agents in check",
+  "title": "How “reverse game theory” could keep AI agents in check",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre How “reverse game theory” could keep AI agents in check?",
+  "angle": "Curiosidade e impacto de How “reverse game theory” could keep AI agents in check",
+  "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre How “reverse game theory” could keep AI agents in check? A explicação técnica revelada pela MIT Technology Review é fascinante: A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,&#8230;. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre How “reverse game theory” could keep AI agents in check?",
+      "visual_direction": "High impact visual representing How “reverse game theory” could keep AI agents in check, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable,",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "reverse",
+    "game",
+    "theory",
+    "could",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "How “reverse game theory” could keep AI agents in check | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

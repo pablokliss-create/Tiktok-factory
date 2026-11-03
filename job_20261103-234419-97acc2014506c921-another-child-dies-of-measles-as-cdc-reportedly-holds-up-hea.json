@@ -1,0 +1,67 @@
+{
+  "id": "20261103-234419-97acc2014506c921",
+  "status": "ready_for_production",
+  "created_at": "2026-11-03T23:44:19.680081+00:00",
+  "published_at": "2026-11-03T17:21:29+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Another child dies of measles as CDC reportedly holds up health alert",
+  "title": "Another child dies of measles as CDC reportedly holds up health alert",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Another child dies of measles as CDC reportedly holds up health alert.",
+  "angle": "Curiosidade e impacto de Another child dies of measles as CDC reportedly holds up health alert",
+  "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Another child dies of measles as CDC reportedly holds up health alert. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Another child dies of measles as CDC reportedly holds up health alert.",
+      "visual_direction": "High impact visual representing Another child dies of measles as CDC reportedly holds up health alert, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Another",
+    "child",
+    "dies",
+    "measles",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Another child dies of measles as CDC reportedly holds up health alert | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

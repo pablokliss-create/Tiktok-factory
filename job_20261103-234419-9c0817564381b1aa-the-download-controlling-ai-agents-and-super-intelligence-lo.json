@@ -1,0 +1,67 @@
+{
+  "id": "20261103-234419-9c0817564381b1aa",
+  "status": "ready_for_production",
+  "created_at": "2026-11-03T23:44:19.680081+00:00",
+  "published_at": "2026-11-03T13:10:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "ia",
+  "topic": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+  "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre The Download: controlling AI agents and “Super Intelligence” loyalty tests?",
+  "angle": "Curiosidade e impacto de The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+  "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre The Download: controlling AI agents and “Super Intelligence” loyalty tests? A explicação técnica revelada pela MIT Technology Review é fascinante: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to&#8230;. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre The Download: controlling AI agents and “Super Intelligence” loyalty tests?",
+      "visual_direction": "High impact visual representing The Download: controlling AI agents and “Super Intelligence” loyalty tests, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” coul",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Download",
+    "controlling",
+    "agents",
+    "Super",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The Download: controlling AI agents and “Super Intelligence” loyalty tests | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
