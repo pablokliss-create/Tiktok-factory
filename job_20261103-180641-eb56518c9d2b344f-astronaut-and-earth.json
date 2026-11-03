@@ -1,0 +1,65 @@
+{
+  "id": "20261103-180641-eb56518c9d2b344f",
+  "status": "ready_for_production",
+  "created_at": "2026-11-03T18:06:41.237557+00:00",
+  "published_at": "2026-11-03T16:37:42+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Astronaut and Earth",
+  "title": "Astronaut and Earth",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Astronaut and Earth.",
+  "angle": "Curiosidade e impacto de Astronaut and Earth",
+  "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Astronaut and Earth. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Astronaut and Earth.",
+      "visual_direction": "High impact visual representing Astronaut and Earth, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Astronaut",
+    "Earth",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Astronaut and Earth | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

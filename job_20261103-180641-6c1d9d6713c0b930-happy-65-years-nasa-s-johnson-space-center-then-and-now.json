@@ -1,0 +1,67 @@
+{
+  "id": "20261103-180641-6c1d9d6713c0b930",
+  "status": "ready_for_production",
+  "created_at": "2026-11-03T18:06:41.237557+00:00",
+  "published_at": "2026-11-02T21:35:59+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+  "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+  "hook": "A história real por trás de Happy 65 Years: NASA’s Johnson Space Center Then and Now é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+  "summary": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping [&#8230;].",
+  "script": "A história real por trás de Happy 65 Years: NASA’s Johnson Space Center Then and Now é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping [&#8230;]. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de Happy 65 Years: NASA’s Johnson Space Center Then and Now é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing Happy 65 Years: NASA’s Johnson Space Center Then and Now, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Happy",
+    "Years",
+    "NASA",
+    "Johnson",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Happy 65 Years: NASA’s Johnson Space Center Then and Now | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
