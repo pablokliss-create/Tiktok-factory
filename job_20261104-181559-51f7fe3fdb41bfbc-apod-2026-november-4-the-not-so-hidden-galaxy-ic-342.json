@@ -1,0 +1,67 @@
+{
+  "id": "20261104-181559-51f7fe3fdb41bfbc",
+  "status": "ready_for_production",
+  "created_at": "2026-11-04T18:15:59.879888+00:00",
+  "published_at": "2026-11-04T05:05:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+  "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342.",
+  "angle": "Curiosidade e impacto de APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+  "summary": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342.",
+      "visual_direction": "High impact visual representing APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cos",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "APOD",
+    "2026",
+    "November",
+    "Hidden",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342 | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

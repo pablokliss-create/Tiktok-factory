@@ -1,0 +1,67 @@
+{
+  "id": "20261104-181559-6c2a8c365f2fa2d8",
+  "status": "ready_for_production",
+  "created_at": "2026-11-04T18:15:59.879888+00:00",
+  "published_at": "2026-11-04T16:52:43+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+  "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA Navigation Experiment Shows Promise for Planetary Landings?",
+  "angle": "Curiosidade e impacto de NASA Navigation Experiment Shows Promise for Planetary Landings",
+  "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. The flight took place [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA Navigation Experiment Shows Promise for Planetary Landings? A explicação técnica revelada pela NASA News é fascinante: NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. The flight took place [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA Navigation Experiment Shows Promise for Planetary Landings?",
+      "visual_direction": "High impact visual representing NASA Navigation Experiment Shows Promise for Planetary Landings, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with th",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Navigation",
+    "Experiment",
+    "Shows",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Navigation Experiment Shows Promise for Planetary Landings | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

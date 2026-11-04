@@ -1,0 +1,67 @@
+{
+  "id": "20261104-181559-da903df12ca9905a",
+  "status": "ready_for_production",
+  "created_at": "2026-11-04T18:15:59.879888+00:00",
+  "published_at": "2026-11-04T16:16:41+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+  "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Space Grant Students Fuel Agency’s Inspiration Tour.",
+  "angle": "Curiosidade e impacto de NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+  "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Space Grant Students Fuel Agency’s Inspiration Tour. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Space Grant Students Fuel Agency’s Inspiration Tour.",
+      "visual_direction": "High impact visual representing NASA Space Grant Students Fuel Agency’s Inspiration Tour, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and o",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Space",
+    "Grant",
+    "Students",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Space Grant Students Fuel Agency’s Inspiration Tour | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
