@@ -1,0 +1,67 @@
+{
+  "id": "20261104-235901-446d8420141d6989",
+  "status": "ready_for_production",
+  "created_at": "2026-11-04T23:59:01.885645+00:00",
+  "published_at": "2026-11-04T21:04:10+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Shares Plans to Accelerate Artemis, Return to Moon.",
+  "angle": "Curiosidade e impacto de NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Shares Plans to Accelerate Artemis, Return to Moon. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Shares Plans to Accelerate Artemis, Return to Moon.",
+      "visual_direction": "High impact visual representing NASA Shares Plans to Accelerate Artemis, Return to Moon, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Shares",
+    "Plans",
+    "Accelerate",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Shares Plans to Accelerate Artemis, Return to Moon | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

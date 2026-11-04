@@ -1,0 +1,67 @@
+{
+  "id": "20261104-235901-879e75a9725f94f6",
+  "status": "ready_for_production",
+  "created_at": "2026-11-04T23:59:01.885645+00:00",
+  "published_at": "2026-11-04T20:36:05+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+  "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: After Texas' blue wave, what happens to Elon Musk and SpaceX?.",
+  "angle": "Curiosidade e impacto de After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+  "summary": "\"Data centers in space looking pretty appealing right now.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: After Texas' blue wave, what happens to Elon Musk and SpaceX?. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: \"Data centers in space looking pretty appealing right now. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: After Texas' blue wave, what happens to Elon Musk and SpaceX?.",
+      "visual_direction": "High impact visual representing After Texas' blue wave, what happens to Elon Musk and SpaceX?, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"Data centers in space looking pretty appealing right now.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "After",
+    "Texas",
+    "blue",
+    "wave",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "After Texas' blue wave, what happens to Elon Musk and SpaceX? | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
