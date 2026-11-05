@@ -1,0 +1,67 @@
+{
+  "id": "20261105-182118-4558a4b2d4490f6b",
+  "status": "ready_for_production",
+  "created_at": "2026-11-05T18:21:18.619267+00:00",
+  "published_at": "2026-11-05T12:00:41+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+  "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market.",
+  "angle": "Curiosidade e impacto de Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+  "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: US leader in deploying humanoid robots goes public on the Nasdaq stock exchange. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market.",
+      "visual_direction": "High impact visual representing Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Agility",
+    "Robotics",
+    "Nasdaq",
+    "debut",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

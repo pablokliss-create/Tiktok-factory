@@ -1,0 +1,67 @@
+{
+  "id": "20261105-182118-57acc2505ae9c01b",
+  "status": "ready_for_production",
+  "created_at": "2026-11-05T18:21:18.619267+00:00",
+  "published_at": "2026-11-05T01:43:21+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces X-70 Experimental Aircraft to Advance Flight Research.",
+  "angle": "Curiosidade e impacto de NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+  "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces X-70 Experimental Aircraft to Advance Flight Research. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces X-70 Experimental Aircraft to Advance Flight Research.",
+      "visual_direction": "High impact visual representing NASA Announces X-70 Experimental Aircraft to Advance Flight Research, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP. Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Announces",
+    "Experimental",
+    "Aircraft",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
