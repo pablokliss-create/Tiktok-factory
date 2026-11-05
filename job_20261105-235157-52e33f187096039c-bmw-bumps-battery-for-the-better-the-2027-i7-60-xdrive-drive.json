@@ -1,0 +1,67 @@
+{
+  "id": "20261105-235157-52e33f187096039c",
+  "status": "ready_for_production",
+  "created_at": "2026-11-05T23:51:57.614018+00:00",
+  "published_at": "2026-11-05T20:45:50+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+  "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: BMW bumps battery for the better: The 2027 i7 60 xDrive, driven.",
+  "angle": "Curiosidade e impacto de BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+  "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: BMW bumps battery for the better: The 2027 i7 60 xDrive, driven. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: BMW has updated its flagship sedan with the newest EV and infotainment tech. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: BMW bumps battery for the better: The 2027 i7 60 xDrive, driven.",
+      "visual_direction": "High impact visual representing BMW bumps battery for the better: The 2027 i7 60 xDrive, driven, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "bumps",
+    "battery",
+    "better",
+    "2027",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

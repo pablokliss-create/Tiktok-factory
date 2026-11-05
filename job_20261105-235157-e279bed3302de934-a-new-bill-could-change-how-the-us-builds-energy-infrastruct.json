@@ -1,0 +1,67 @@
+{
+  "id": "20261105-235157-e279bed3302de934",
+  "status": "ready_for_production",
+  "created_at": "2026-11-05T23:51:57.614018+00:00",
+  "published_at": "2026-11-05T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "WHY",
+  "category": "ia",
+  "topic": "A new bill could change how the US builds energy infrastructure",
+  "title": "A new bill could change how the US builds energy infrastructure",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre A new bill could change how the US builds energy infrastructure?",
+  "angle": "Curiosidade e impacto de A new bill could change how the US builds energy infrastructure",
+  "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre A new bill could change how the US builds energy infrastructure? A explicação técnica revelada pela MIT Technology Review é fascinante: A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally&#8230;. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre A new bill could change how the US builds energy infrastructure?",
+      "visual_direction": "High impact visual representing A new bill could change how the US builds energy infrastructure, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterm",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "bill",
+    "could",
+    "change",
+    "builds",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "A new bill could change how the US builds energy infrastructure | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
