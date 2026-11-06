@@ -1,0 +1,67 @@
+{
+  "id": "20261106-174310-c4dcf3e0b10f9902",
+  "status": "ready_for_production",
+  "created_at": "2026-11-06T17:43:10.721963+00:00",
+  "published_at": "2026-11-06T13:10:00+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "ia",
+  "topic": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+  "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: The Download: a humanoid cleans house and Samsung builds for the AI boom.",
+  "angle": "Curiosidade e impacto de The Download: a humanoid cleans house and Samsung builds for the AI boom",
+  "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: The Download: a humanoid cleans house and Samsung builds for the AI boom. De acordo com relatórios publicados pela MIT Technology Review, os novos dados confirmam: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: The Download: a humanoid cleans house and Samsung builds for the AI boom.",
+      "visual_direction": "High impact visual representing The Download: a humanoid cleans house and Samsung builds for the AI boom, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot cle",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Download",
+    "humanoid",
+    "cleans",
+    "house",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The Download: a humanoid cleans house and Samsung builds for the AI boom | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
