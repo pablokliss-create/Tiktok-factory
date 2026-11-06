@@ -1,0 +1,67 @@
+{
+  "id": "20261106-233351-ad127020e661e2bd",
+  "status": "ready_for_production",
+  "created_at": "2026-11-06T23:33:51.657256+00:00",
+  "published_at": "2026-11-06T18:20:47+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "You know the launch market is tough when satellite companies start building rockets",
+  "title": "You know the launch market is tough when satellite companies start building rockets",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: You know the launch market is tough when satellite companies start building rockets.",
+  "angle": "Curiosidade e impacto de You know the launch market is tough when satellite companies start building rockets",
+  "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: You know the launch market is tough when satellite companies start building rockets. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: \"The Blacklift rocket is the springboard to significantly expand our total addressable market. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: You know the launch market is tough when satellite companies start building rockets.",
+      "visual_direction": "High impact visual representing You know the launch market is tough when satellite companies start building rockets, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "know",
+    "launch",
+    "market",
+    "tough",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "You know the launch market is tough when satellite companies start building rockets | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
