@@ -1,0 +1,67 @@
+{
+  "id": "20261107-203446-1b6fcb702fd15534",
+  "status": "ready_for_production",
+  "created_at": "2026-11-07T20:34:46.277609+00:00",
+  "published_at": "2026-11-07T18:11:57+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Seeks Next Generation of Explorers to Join Astronaut Corps.",
+  "angle": "Curiosidade e impacto de NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+  "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Seeks Next Generation of Explorers to Join Astronaut Corps. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Seeks Next Generation of Explorers to Join Astronaut Corps.",
+      "visual_direction": "High impact visual representing NASA Seeks Next Generation of Explorers to Join Astronaut Corps, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Seeks",
+    "Next",
+    "Generation",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

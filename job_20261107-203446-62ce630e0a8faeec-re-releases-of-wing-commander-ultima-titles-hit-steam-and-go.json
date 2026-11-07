@@ -1,0 +1,67 @@
+{
+  "id": "20261107-203446-62ce630e0a8faeec",
+  "status": "ready_for_production",
+  "created_at": "2026-11-07T20:34:46.277609+00:00",
+  "published_at": "2026-11-06T22:08:47+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+  "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Re-releases of Wing Commander, Ultima titles hit Steam and GOG.",
+  "angle": "Curiosidade e impacto de Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+  "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Re-releases of Wing Commander, Ultima titles hit Steam and GOG. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: It's mostly bad news from EA lately, but preservation efforts are nice to see. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Re-releases of Wing Commander, Ultima titles hit Steam and GOG.",
+      "visual_direction": "High impact visual representing Re-releases of Wing Commander, Ultima titles hit Steam and GOG, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "releases",
+    "Wing",
+    "Commander",
+    "Ultima",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
