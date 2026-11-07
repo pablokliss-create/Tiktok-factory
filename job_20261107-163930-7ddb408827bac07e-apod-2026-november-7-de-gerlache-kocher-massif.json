@@ -1,0 +1,67 @@
+{
+  "id": "20261107-163930-7ddb408827bac07e",
+  "status": "ready_for_production",
+  "created_at": "2026-11-07T16:39:30.679887+00:00",
+  "published_at": "2026-11-07T05:05:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+  "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 7 – De Gerlache-Kocher Massif.",
+  "angle": "Curiosidade e impacto de APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+  "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 7 – De Gerlache-Kocher Massif. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. De Gerlache-Kocher Massif [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 7 – De Gerlache-Kocher Massif.",
+      "visual_direction": "High impact visual representing APOD: 2026 November 7 – De Gerlache-Kocher Massif, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "APOD",
+    "2026",
+    "November",
+    "Gerlache",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "APOD: 2026 November 7 – De Gerlache-Kocher Massif | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

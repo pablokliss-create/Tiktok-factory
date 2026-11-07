@@ -1,0 +1,67 @@
+{
+  "id": "20261107-163930-f39392df4b452276",
+  "status": "ready_for_production",
+  "created_at": "2026-11-07T16:39:30.679887+00:00",
+  "published_at": "2026-11-06T20:24:20+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Earth's churning mantle may have created the Great Unconformity",
+  "title": "Earth's churning mantle may have created the Great Unconformity",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Earth's churning mantle may have created the Great Unconformity.",
+  "angle": "Curiosidade e impacto de Earth's churning mantle may have created the Great Unconformity",
+  "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Earth's churning mantle may have created the Great Unconformity. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Earth's churning mantle may have created the Great Unconformity.",
+      "visual_direction": "High impact visual representing Earth's churning mantle may have created the Great Unconformity, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Earth",
+    "churning",
+    "mantle",
+    "have",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Earth's churning mantle may have created the Great Unconformity | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

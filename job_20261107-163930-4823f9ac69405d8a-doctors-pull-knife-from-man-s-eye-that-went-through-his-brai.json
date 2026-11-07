@@ -1,0 +1,67 @@
+{
+  "id": "20261107-163930-4823f9ac69405d8a",
+  "status": "ready_for_production",
+  "created_at": "2026-11-07T16:39:30.679887+00:00",
+  "published_at": "2026-11-06T23:09:45+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+  "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Doctors pull knife from man's eye that went through his brain—and he's fine now.",
+  "angle": "Curiosidade e impacto de Doctors pull knife from man's eye that went through his brain—and he's fine now",
+  "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Doctors pull knife from man's eye that went through his brain—and he's fine now. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: It's the exact path, not the apparent severity that matters most, doctors say. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Doctors pull knife from man's eye that went through his brain—and he's fine now.",
+      "visual_direction": "High impact visual representing Doctors pull knife from man's eye that went through his brain—and he's fine now, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Doctors",
+    "pull",
+    "knife",
+    "from",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Doctors pull knife from man's eye that went through his brain—and he's fine now | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
