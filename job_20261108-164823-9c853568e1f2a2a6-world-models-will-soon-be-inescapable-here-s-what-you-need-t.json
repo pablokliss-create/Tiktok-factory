@@ -1,0 +1,67 @@
+{
+  "id": "20261108-164823-9c853568e1f2a2a6",
+  "status": "ready_for_production",
+  "created_at": "2026-11-08T16:48:23.617480+00:00",
+  "published_at": "2026-11-08T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "seguranca_internet",
+  "topic": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+  "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre World Models Will Soon Be Inescapable. Here’s What You Need to Know?",
+  "angle": "Curiosidade e impacto de World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+  "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre World Models Will Soon Be Inescapable. Here’s What You Need to Know? A explicação técnica revelada pela Wired é fascinante: Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre World Models Will Soon Be Inescapable. Here’s What You Need to Know?",
+      "visual_direction": "High impact visual representing World Models Will Soon Be Inescapable. Here’s What You Need to Know, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "World",
+    "Models",
+    "Will",
+    "Soon",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "World Models Will Soon Be Inescapable. Here’s What You Need to Know | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

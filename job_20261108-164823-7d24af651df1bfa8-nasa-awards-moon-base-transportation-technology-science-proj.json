@@ -1,0 +1,67 @@
+{
+  "id": "20261108-164823-7d24af651df1bfa8",
+  "status": "ready_for_production",
+  "created_at": "2026-11-08T16:48:23.617480+00:00",
+  "published_at": "2026-11-07T22:47:03+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Awards Moon Base Transportation, Technology, Science Projects.",
+  "angle": "Curiosidade e impacto de NASA Awards Moon Base Transportation, Technology, Science Projects",
+  "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Awards Moon Base Transportation, Technology, Science Projects. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Awards Moon Base Transportation, Technology, Science Projects.",
+      "visual_direction": "High impact visual representing NASA Awards Moon Base Transportation, Technology, Science Projects, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA announced a suite of awards and mission updates on Saturday to expand the agency&#8217;s Moon Base exploration, science, and infrastructure capabilities. The investments will ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Awards",
+    "Moon",
+    "Base",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Awards Moon Base Transportation, Technology, Science Projects | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
