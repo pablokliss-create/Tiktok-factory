@@ -1,0 +1,66 @@
+{
+  "id": "20261108-204940-7e33c04ce550e833",
+  "status": "ready_for_production",
+  "created_at": "2026-11-08T20:49:40.481649+00:00",
+  "published_at": "2026-11-08T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 80,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+  "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now.",
+  "angle": "Curiosidade e impacto de The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+  "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now. De acordo com relatórios publicados pela Wired, os novos dados confirmam: Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now.",
+      "visual_direction": "High impact visual representing The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Apple",
+    "MacBook",
+    "Sale",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

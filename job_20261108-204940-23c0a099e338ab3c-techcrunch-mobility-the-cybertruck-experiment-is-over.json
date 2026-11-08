@@ -1,0 +1,67 @@
+{
+  "id": "20261108-204940-23c0a099e338ab3c",
+  "status": "ready_for_production",
+  "created_at": "2026-11-08T20:49:40.481649+00:00",
+  "published_at": "2026-11-08T17:02:00+00:00",
+  "language": "pt-BR",
+  "score": 80,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "TechCrunch Mobility: The Cybertruck experiment is over",
+  "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: TechCrunch Mobility: The Cybertruck experiment is over.",
+  "angle": "Curiosidade e impacto de TechCrunch Mobility: The Cybertruck experiment is over",
+  "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: TechCrunch Mobility: The Cybertruck experiment is over. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: TechCrunch Mobility: The Cybertruck experiment is over.",
+      "visual_direction": "High impact visual representing TechCrunch Mobility: The Cybertruck experiment is over, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "TechCrunch",
+    "Mobility",
+    "Cybertruck",
+    "experiment",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "TechCrunch Mobility: The Cybertruck experiment is over | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

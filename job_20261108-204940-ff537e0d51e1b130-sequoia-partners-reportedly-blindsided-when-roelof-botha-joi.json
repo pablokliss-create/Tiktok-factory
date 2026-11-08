@@ -1,0 +1,67 @@
+{
+  "id": "20261108-204940-ff537e0d51e1b130",
+  "status": "ready_for_production",
+  "created_at": "2026-11-08T20:49:40.481649+00:00",
+  "published_at": "2026-11-08T19:51:30+00:00",
+  "language": "pt-BR",
+  "score": 80,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+  "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board.",
+  "angle": "Curiosidade e impacto de Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+  "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: A new report claims Sequoia's recent changes undo the legacy of the firm's former steward. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board.",
+      "visual_direction": "High impact visual representing Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Sequoia",
+    "partners",
+    "reportedly",
+    "blindsided",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
