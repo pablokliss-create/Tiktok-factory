@@ -1,0 +1,67 @@
+{
+  "id": "20261109-210854-2ab4650257b69e0e",
+  "status": "ready_for_production",
+  "created_at": "2026-11-09T21:08:54.745128+00:00",
+  "published_at": "2026-11-09T16:01:47+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+  "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars.",
+  "angle": "Curiosidade e impacto de NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+  "summary": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars.",
+      "visual_direction": "High impact visual representing NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "ESCAPADE",
+    "Completes",
+    "Powered",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

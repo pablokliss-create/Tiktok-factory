@@ -1,0 +1,67 @@
+{
+  "id": "20261109-210854-853f46619f1e1f80",
+  "status": "ready_for_production",
+  "created_at": "2026-11-09T21:08:54.745128+00:00",
+  "published_at": "2026-11-09T16:07:10+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+  "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future.",
+  "angle": "Curiosidade e impacto de MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+  "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future.",
+      "visual_direction": "High impact visual representing MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and aroun",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "POWER",
+    "NASA",
+    "Inaugural",
+    "Aerospace",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

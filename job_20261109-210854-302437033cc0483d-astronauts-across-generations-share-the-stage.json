@@ -1,0 +1,67 @@
+{
+  "id": "20261109-210854-302437033cc0483d",
+  "status": "ready_for_production",
+  "created_at": "2026-11-09T21:08:54.745128+00:00",
+  "published_at": "2026-11-09T16:56:29+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Astronauts Across Generations Share the Stage",
+  "title": "Astronauts Across Generations Share the Stage",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Astronauts Across Generations Share the Stage.",
+  "angle": "Curiosidade e impacto de Astronauts Across Generations Share the Stage",
+  "summary": "6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency&#8217;s [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Astronauts Across Generations Share the Stage. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency&#8217;s [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Astronauts Across Generations Share the Stage.",
+      "visual_direction": "High impact visual representing Astronauts Across Generations Share the Stage, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Astronauts",
+    "Across",
+    "Generations",
+    "Share",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Astronauts Across Generations Share the Stage | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

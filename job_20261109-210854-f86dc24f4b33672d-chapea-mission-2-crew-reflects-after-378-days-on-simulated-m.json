@@ -1,0 +1,67 @@
+{
+  "id": "20261109-210854-f86dc24f4b33672d",
+  "status": "ready_for_production",
+  "created_at": "2026-11-09T21:08:54.745128+00:00",
+  "published_at": "2026-11-09T11:00:00+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+  "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars.",
+  "angle": "Curiosidade e impacto de CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+  "summary": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. &#160; Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery&#160;entered the roughly 1,700-square-foot, 3D-printed habitat at [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. &#160; Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery&#160;entered the roughly 1,700-square-foot, 3D-printed habitat at [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars.",
+      "visual_direction": "High impact visual representing CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "CHAPEA",
+    "Mission",
+    "Crew",
+    "Reflects",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
