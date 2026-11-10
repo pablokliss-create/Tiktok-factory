@@ -1,0 +1,67 @@
+{
+  "id": "20261110-234717-878c594308249fa9",
+  "status": "ready_for_production",
+  "created_at": "2026-11-10T23:47:17.709706+00:00",
+  "published_at": "2026-11-10T15:00:39+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\".",
+  "angle": "Curiosidade e impacto de DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+  "summary": "The new model is up to twice as successful at some tasks.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\". De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: The new model is up to twice as successful at some tasks. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\".",
+      "visual_direction": "High impact visual representing DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\", cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The new model is up to twice as successful at some tasks.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "DeepMind",
+    "reveals",
+    "Gemini",
+    "Robotics",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\" | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

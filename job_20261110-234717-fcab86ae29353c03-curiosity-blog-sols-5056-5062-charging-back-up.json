@@ -1,0 +1,67 @@
+{
+  "id": "20261110-234717-fcab86ae29353c03",
+  "status": "ready_for_production",
+  "created_at": "2026-11-10T23:47:17.709706+00:00",
+  "published_at": "2026-11-10T01:07:45+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+  "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5056-5062: Charging Back Up!.",
+  "angle": "Curiosidade e impacto de Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+  "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5056-5062: Charging Back Up!. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Curiosity Blog, Sols 5056-5062: Charging Back Up!.",
+      "visual_direction": "High impact visual representing Curiosity Blog, Sols 5056-5062: Charging Back Up!, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging s",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Curiosity",
+    "Blog",
+    "Sols",
+    "5056",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Curiosity Blog, Sols 5056-5062: Charging Back Up! | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
