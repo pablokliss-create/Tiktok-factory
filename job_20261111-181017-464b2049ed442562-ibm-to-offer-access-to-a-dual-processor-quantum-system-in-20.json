@@ -1,0 +1,67 @@
+{
+  "id": "20261111-181017-464b2049ed442562",
+  "status": "ready_for_production",
+  "created_at": "2026-11-11T18:10:17.549960+00:00",
+  "published_at": "2026-11-11T16:33:08+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "IBM to offer access to a dual-processor quantum system in 2027",
+  "title": "IBM to offer access to a dual-processor quantum system in 2027",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: IBM to offer access to a dual-processor quantum system in 2027.",
+  "angle": "Curiosidade e impacto de IBM to offer access to a dual-processor quantum system in 2027",
+  "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: IBM to offer access to a dual-processor quantum system in 2027. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: The company plans on linking two 520-qubit chips before next year is over. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: IBM to offer access to a dual-processor quantum system in 2027.",
+      "visual_direction": "High impact visual representing IBM to offer access to a dual-processor quantum system in 2027, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The company plans on linking two 520-qubit chips before next year is over.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "offer",
+    "access",
+    "dual",
+    "processor",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "IBM to offer access to a dual-processor quantum system in 2027 | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

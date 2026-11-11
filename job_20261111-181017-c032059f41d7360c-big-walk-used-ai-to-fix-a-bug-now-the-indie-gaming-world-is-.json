@@ -1,0 +1,67 @@
+{
+  "id": "20261111-181017-c032059f41d7360c",
+  "status": "ready_for_production",
+  "created_at": "2026-11-11T18:10:17.549960+00:00",
+  "published_at": "2026-11-11T17:37:32+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning..",
+  "angle": "Curiosidade e impacto de Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+  "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Any amount of AI coding is too much for many Indie Game Festival judges. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning..",
+      "visual_direction": "High impact visual representing Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning., cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Walk",
+    "used",
+    "indie",
+    "gaming",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
