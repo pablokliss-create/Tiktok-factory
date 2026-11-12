@@ -1,0 +1,67 @@
+{
+  "id": "20261112-183746-7188f9eba484604f",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T18:37:46.607737+00:00",
+  "published_at": "2026-11-12T13:00:00+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+  "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA?",
+  "angle": "Curiosidade e impacto de Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+  "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA? A explicação técnica revelada pela NASA News é fascinante: As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA?",
+      "visual_direction": "High impact visual representing Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Through",
+    "NASA",
+    "Lens",
+    "Capturing",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
