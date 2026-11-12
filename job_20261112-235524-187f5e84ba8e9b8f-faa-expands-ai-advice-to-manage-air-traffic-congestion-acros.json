@@ -1,0 +1,67 @@
+{
+  "id": "20261112-235524-187f5e84ba8e9b8f",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T23:55:24.575293+00:00",
+  "published_at": "2026-11-12T22:28:47+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: FAA expands AI advice to manage air traffic congestion across entire US airspace.",
+  "angle": "Curiosidade e impacto de FAA expands AI advice to manage air traffic congestion across entire US airspace",
+  "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: FAA expands AI advice to manage air traffic congestion across entire US airspace. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: FAA expands AI advice to manage air traffic congestion across entire US airspace.",
+      "visual_direction": "High impact visual representing FAA expands AI advice to manage air traffic congestion across entire US airspace, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "expands",
+    "advice",
+    "manage",
+    "traffic",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "FAA expands AI advice to manage air traffic congestion across entire US airspace | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

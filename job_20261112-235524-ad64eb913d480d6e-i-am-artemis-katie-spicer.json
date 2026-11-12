@@ -1,0 +1,66 @@
+{
+  "id": "20261112-235524-ad64eb913d480d6e",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T23:55:24.575293+00:00",
+  "published_at": "2026-11-12T20:10:02+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "I Am Artemis Katie Spicer",
+  "title": "I Am Artemis Katie Spicer",
+  "hook": "A história real por trás de I Am Artemis Katie Spicer é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de I Am Artemis Katie Spicer",
+  "summary": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;].",
+  "script": "A história real por trás de I Am Artemis Katie Spicer é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the [&#8230;]. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de I Am Artemis Katie Spicer é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing I Am Artemis Katie Spicer, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lan",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Artemis",
+    "Katie",
+    "Spicer",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "I Am Artemis Katie Spicer | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

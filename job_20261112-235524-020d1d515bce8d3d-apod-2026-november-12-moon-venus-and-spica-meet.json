@@ -1,0 +1,67 @@
+{
+  "id": "20261112-235524-020d1d515bce8d3d",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T23:55:24.575293+00:00",
+  "published_at": "2026-11-12T05:05:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+  "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 12 – Moon, Venus and Spica Meet.",
+  "angle": "Curiosidade e impacto de APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+  "summary": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 12 – Moon, Venus and Spica Meet. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Moon, Venus and [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 12 – Moon, Venus and Spica Meet.",
+      "visual_direction": "High impact visual representing APOD: 2026 November 12 – Moon, Venus and Spica Meet, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "APOD",
+    "2026",
+    "November",
+    "Moon",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "APOD: 2026 November 12 – Moon, Venus and Spica Meet | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

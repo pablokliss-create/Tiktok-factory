@@ -1,0 +1,66 @@
+{
+  "id": "20261112-235524-2cbacb0339f0580c",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T23:55:24.575293+00:00",
+  "published_at": "2026-11-12T19:12:49+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "Heart in the Sky at NASA Kennedy",
+  "title": "Heart in the Sky at NASA Kennedy",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Heart in the Sky at NASA Kennedy?",
+  "angle": "Curiosidade e impacto de Heart in the Sky at NASA Kennedy",
+  "summary": "Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Heart in the Sky at NASA Kennedy? A explicação técnica revelada pela NASA News é fascinante: Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Heart in the Sky at NASA Kennedy?",
+      "visual_direction": "High impact visual representing Heart in the Sky at NASA Kennedy, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, N",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Heart",
+    "NASA",
+    "Kennedy",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Heart in the Sky at NASA Kennedy | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
