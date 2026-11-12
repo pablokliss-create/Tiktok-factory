@@ -1,0 +1,67 @@
+{
+  "id": "20261112-010558-64750c2cd1eab972",
+  "status": "ready_for_production",
+  "created_at": "2026-11-12T01:05:58.875134+00:00",
+  "published_at": "2026-11-11T23:10:17+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+  "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: CEO Jensen Huang's job is suddenly on the line at Nvidia.",
+  "angle": "Curiosidade e impacto de CEO Jensen Huang's job is suddenly on the line at Nvidia",
+  "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: CEO Jensen Huang's job is suddenly on the line at Nvidia. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: CEO Jensen Huang's job is suddenly on the line at Nvidia.",
+      "visual_direction": "High impact visual representing CEO Jensen Huang's job is suddenly on the line at Nvidia, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Jensen",
+    "Huang",
+    "suddenly",
+    "line",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "CEO Jensen Huang's job is suddenly on the line at Nvidia | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
