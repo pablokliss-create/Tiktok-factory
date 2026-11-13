@@ -1,0 +1,67 @@
+{
+  "id": "20261113-181038-0dcc7b19f7648c41",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T18:10:38.866473+00:00",
+  "published_at": "2026-11-13T13:10:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "ia",
+  "topic": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+  "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan?",
+  "angle": "Curiosidade e impacto de The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+  "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan? A explicação técnica revelada pela MIT Technology Review é fascinante: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan?",
+      "visual_direction": "High impact visual representing The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Download",
+    "Silicon",
+    "Valley",
+    "blind",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

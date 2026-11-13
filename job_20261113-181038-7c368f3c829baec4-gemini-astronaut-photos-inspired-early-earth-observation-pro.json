@@ -1,0 +1,67 @@
+{
+  "id": "20261113-181038-7c368f3c829baec4",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T18:10:38.866473+00:00",
+  "published_at": "2026-11-13T16:05:54+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+  "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Gemini Astronaut Photos Inspired Early Earth Observation Program.",
+  "angle": "Curiosidade e impacto de Gemini Astronaut Photos Inspired Early Earth Observation Program",
+  "summary": "Astronauts James A. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Gemini Astronaut Photos Inspired Early Earth Observation Program. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Astronauts James A. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Gemini Astronaut Photos Inspired Early Earth Observation Program.",
+      "visual_direction": "High impact visual representing Gemini Astronaut Photos Inspired Early Earth Observation Program, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Astronauts James A. &#8220;Buzz&#8221; Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA&#8217;s Gemini program.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Gemini",
+    "Astronaut",
+    "Photos",
+    "Inspired",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Gemini Astronaut Photos Inspired Early Earth Observation Program | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

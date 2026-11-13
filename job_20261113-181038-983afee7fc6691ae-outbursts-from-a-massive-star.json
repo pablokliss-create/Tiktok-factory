@@ -1,0 +1,67 @@
+{
+  "id": "20261113-181038-983afee7fc6691ae",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T18:10:38.866473+00:00",
+  "published_at": "2026-11-13T16:39:33+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "Outbursts from a Massive Star",
+  "title": "Outbursts from a Massive Star",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Outbursts from a Massive Star?",
+  "angle": "Curiosidade e impacto de Outbursts from a Massive Star",
+  "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Outbursts from a Massive Star? A explicação técnica revelada pela NASA News é fascinante: Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Outbursts from a Massive Star?",
+      "visual_direction": "High impact visual representing Outbursts from a Massive Star, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image rele",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Outbursts",
+    "from",
+    "Massive",
+    "Star",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Outbursts from a Massive Star | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

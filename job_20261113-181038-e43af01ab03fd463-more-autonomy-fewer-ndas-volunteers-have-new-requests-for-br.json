@@ -1,0 +1,67 @@
+{
+  "id": "20261113-181038-e43af01ab03fd463",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T18:10:38.866473+00:00",
+  "published_at": "2026-11-13T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "ia",
+  "topic": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+  "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials.",
+  "angle": "Curiosidade e impacto de More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+  "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak. ” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials. De acordo com relatórios publicados pela MIT Technology Review, os novos dados confirmam: Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak. ” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials.",
+      "visual_direction": "High impact visual representing More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "More",
+    "autonomy",
+    "fewer",
+    "NDAs",
+    "ia",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials | Fatos verificados via MIT Technology Review",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#ia",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+    }
+  ],
+  "source": "MIT Technology Review",
+  "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
