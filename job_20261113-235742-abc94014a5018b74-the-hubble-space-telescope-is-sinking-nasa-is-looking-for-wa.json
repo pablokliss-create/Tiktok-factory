@@ -1,0 +1,67 @@
+{
+  "id": "20261113-235742-abc94014a5018b74",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T23:57:42.988928+00:00",
+  "published_at": "2026-11-13T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "seguranca_internet",
+  "topic": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+  "title": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat?",
+  "angle": "Curiosidade e impacto de The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat",
+  "summary": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat? A explicação técnica revelada pela Wired é fascinante: With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat?",
+      "visual_direction": "High impact visual representing The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s l",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Hubble",
+    "Space",
+    "Telescope",
+    "Sinking",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

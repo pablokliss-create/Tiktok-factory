@@ -1,0 +1,67 @@
+{
+  "id": "20261113-235742-b9799a155425e20c",
+  "status": "ready_for_production",
+  "created_at": "2026-11-13T23:57:42.988928+00:00",
+  "published_at": "2026-11-13T23:17:38+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "STORY",
+  "category": "curiosidades_tech",
+  "topic": "FAA orders third nationwide ground stop in its history",
+  "title": "FAA orders third nationwide ground stop in its history",
+  "hook": "A história real por trás de FAA orders third nationwide ground stop in its history é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de FAA orders third nationwide ground stop in its history",
+  "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+  "script": "A história real por trás de FAA orders third nationwide ground stop in its history é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela Ars Technica: Rare nationwide ground stop could go on for awhile as FAA troubleshoots. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de FAA orders third nationwide ground stop in its history é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing FAA orders third nationwide ground stop in its history, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "orders",
+    "third",
+    "nationwide",
+    "ground",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "FAA orders third nationwide ground stop in its history | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
