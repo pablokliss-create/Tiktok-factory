@@ -1,0 +1,67 @@
+{
+  "id": "20261114-164536-de971d84da2e83bb",
+  "status": "ready_for_production",
+  "created_at": "2026-11-14T16:45:36.270263+00:00",
+  "published_at": "2026-11-13T20:03:13+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "In elephants, the resilience of communities has its limits",
+  "title": "In elephants, the resilience of communities has its limits",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: In elephants, the resilience of communities has its limits.",
+  "angle": "Curiosidade e impacto de In elephants, the resilience of communities has its limits",
+  "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: In elephants, the resilience of communities has its limits. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: In Sri Lanka, ecological change is shrinking a park's elephant population. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: In elephants, the resilience of communities has its limits.",
+      "visual_direction": "High impact visual representing In elephants, the resilience of communities has its limits, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "elephants",
+    "resilience",
+    "communities",
+    "limits",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "In elephants, the resilience of communities has its limits | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

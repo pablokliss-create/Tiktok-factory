@@ -1,0 +1,67 @@
+{
+  "id": "20261114-164536-37b1509f5a5da8f1",
+  "status": "ready_for_production",
+  "created_at": "2026-11-14T16:45:36.270263+00:00",
+  "published_at": "2026-11-13T19:49:16+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+  "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good.",
+  "angle": "Curiosidade e impacto de Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+  "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good.",
+      "visual_direction": "High impact visual representing Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Kalshi",
+    "ditches",
+    "Trump",
+    "advisor",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

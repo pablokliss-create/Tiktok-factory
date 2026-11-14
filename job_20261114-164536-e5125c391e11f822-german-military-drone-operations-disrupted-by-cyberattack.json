@@ -1,0 +1,67 @@
+{
+  "id": "20261114-164536-e5125c391e11f822",
+  "status": "ready_for_production",
+  "created_at": "2026-11-14T16:45:36.270263+00:00",
+  "published_at": "2026-11-13T17:31:56+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "German military drone operations disrupted by cyberattack",
+  "title": "German military drone operations disrupted by cyberattack",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: German military drone operations disrupted by cyberattack.",
+  "angle": "Curiosidade e impacto de German military drone operations disrupted by cyberattack",
+  "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: German military drone operations disrupted by cyberattack. De acordo com relatórios publicados pela BleepingComputer, os novos dados confirmam: German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: German military drone operations disrupted by cyberattack.",
+      "visual_direction": "High impact visual representing German military drone operations disrupted by cyberattack, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "German",
+    "military",
+    "drone",
+    "operations",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "German military drone operations disrupted by cyberattack | Fatos verificados via BleepingComputer",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/"
+    }
+  ],
+  "source": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
