@@ -1,0 +1,66 @@
+{
+  "id": "20261115-172828-4cbc34a11aaef437",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T17:28:28.441440+00:00",
+  "published_at": "2026-11-15T12:00:00+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "AI DJs Completely Kill My Groove",
+  "title": "AI DJs Completely Kill My Groove",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: AI DJs Completely Kill My Groove.",
+  "angle": "Curiosidade e impacto de AI DJs Completely Kill My Groove",
+  "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: AI DJs Completely Kill My Groove. De acordo com relatórios publicados pela Wired, os novos dados confirmam: YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: AI DJs Completely Kill My Groove.",
+      "visual_direction": "High impact visual representing AI DJs Completely Kill My Groove, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Completely",
+    "Kill",
+    "Groove",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "AI DJs Completely Kill My Groove | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

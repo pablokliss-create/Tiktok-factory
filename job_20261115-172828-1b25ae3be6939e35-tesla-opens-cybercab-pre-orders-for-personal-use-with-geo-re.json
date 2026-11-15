@@ -1,0 +1,67 @@
+{
+  "id": "20261115-172828-1b25ae3be6939e35",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T17:28:28.441440+00:00",
+  "published_at": "2026-11-14T20:04:44+00:00",
+  "language": "pt-BR",
+  "score": 80,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee.",
+  "angle": "Curiosidade e impacto de Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "summary": "Even Elon Musk said the monthly fee is \"too high.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: Even Elon Musk said the monthly fee is \"too high. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee.",
+      "visual_direction": "High impact visual representing Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Even Elon Musk said the monthly fee is \"too high.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Tesla",
+    "opens",
+    "Cybercab",
+    "orders",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

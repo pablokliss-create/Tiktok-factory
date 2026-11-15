@@ -1,0 +1,67 @@
+{
+  "id": "20261115-172828-39c48dfd0432c94b",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T17:28:28.441440+00:00",
+  "published_at": "2026-11-15T00:08:07+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Where was Nvidia’s security team?",
+  "title": "Where was Nvidia’s security team?",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Where was Nvidia’s security team?.",
+  "angle": "Curiosidade e impacto de Where was Nvidia’s security team?",
+  "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Where was Nvidia’s security team?. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Where was Nvidia’s security team?.",
+      "visual_direction": "High impact visual representing Where was Nvidia’s security team?, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of fun",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Where",
+    "Nvidia",
+    "security",
+    "team",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Where was Nvidia’s security team? | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
