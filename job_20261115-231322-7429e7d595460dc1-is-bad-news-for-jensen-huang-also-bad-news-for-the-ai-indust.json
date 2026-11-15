@@ -1,0 +1,67 @@
+{
+  "id": "20261115-231322-7429e7d595460dc1",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T23:13:22.717934+00:00",
+  "published_at": "2026-11-15T21:56:35+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Is bad news for Jensen Huang also bad news for the AI industry?.",
+  "angle": "Curiosidade e impacto de Is bad news for Jensen Huang also bad news for the AI industry?",
+  "summary": "\"Jensen is Nvidia, right. And so much of this economy is riding on Nvidia.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Is bad news for Jensen Huang also bad news for the AI industry?. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: \"Jensen is Nvidia, right. And so much of this economy is riding on Nvidia. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Is bad news for Jensen Huang also bad news for the AI industry?.",
+      "visual_direction": "High impact visual representing Is bad news for Jensen Huang also bad news for the AI industry?, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"Jensen is Nvidia, right. And so much of this economy is riding on Nvidia.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "news",
+    "Jensen",
+    "Huang",
+    "also",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Is bad news for Jensen Huang also bad news for the AI industry? | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20261115-231322-07ce10f217765d71",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T23:13:22.717934+00:00",
+  "published_at": "2026-11-15T10:00:00+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "M6 Mac Mini Early Black Friday Sale (2026)",
+  "title": "M6 Mac Mini Early Black Friday Sale (2026)",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: M6 Mac Mini Early Black Friday Sale (2026).",
+  "angle": "Curiosidade e impacto de M6 Mac Mini Early Black Friday Sale (2026)",
+  "summary": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: M6 Mac Mini Early Black Friday Sale (2026). De acordo com relatórios publicados pela Wired, os novos dados confirmam: The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: M6 Mac Mini Early Black Friday Sale (2026).",
+      "visual_direction": "High impact visual representing M6 Mac Mini Early Black Friday Sale (2026), cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The Mac Mini is the best mini computer you can buy, and it’s currently $120 off, starting at just $779.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Mini",
+    "Early",
+    "Black",
+    "Friday",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "M6 Mac Mini Early Black Friday Sale (2026) | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/mac-mini-deal-11-13-2026/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

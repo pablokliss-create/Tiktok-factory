@@ -1,0 +1,67 @@
+{
+  "id": "20261115-231322-76ba44373377a2de",
+  "status": "ready_for_production",
+  "created_at": "2026-11-15T23:13:22.717934+00:00",
+  "published_at": "2026-11-15T18:29:53+00:00",
+  "language": "pt-BR",
+  "score": 80,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+  "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: FBI warns ARTEX AI hacking tool is powering global cyberattacks.",
+  "angle": "Curiosidade e impacto de FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+  "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: FBI warns ARTEX AI hacking tool is powering global cyberattacks. De acordo com relatórios publicados pela BleepingComputer, os novos dados confirmam: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: FBI warns ARTEX AI hacking tool is powering global cyberattacks.",
+      "visual_direction": "High impact visual representing FBI warns ARTEX AI hacking tool is powering global cyberattacks, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent Conn",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "warns",
+    "ARTEX",
+    "hacking",
+    "tool",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "FBI warns ARTEX AI hacking tool is powering global cyberattacks | Fatos verificados via BleepingComputer",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+    }
+  ],
+  "source": "BleepingComputer",
+  "source_url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
