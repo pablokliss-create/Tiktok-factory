@@ -1,0 +1,67 @@
+{
+  "id": "20261116-204156-9d32171c2745d2f5",
+  "status": "ready_for_production",
+  "created_at": "2026-11-16T20:41:56.411049+00:00",
+  "published_at": "2026-11-16T15:22:09+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+  "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jim Mirandy.",
+  "angle": "Curiosidade e impacto de Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+  "summary": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jim Mirandy. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Contractor to Civil Servant: NASA Welcomes Jim Mirandy.",
+      "visual_direction": "High impact visual representing Contractor to Civil Servant: NASA Welcomes Jim Mirandy, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil serva",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Contractor",
+    "Civil",
+    "Servant",
+    "NASA",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

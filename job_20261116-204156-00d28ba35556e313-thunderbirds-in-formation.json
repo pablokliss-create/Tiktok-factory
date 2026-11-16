@@ -1,0 +1,65 @@
+{
+  "id": "20261116-204156-00d28ba35556e313",
+  "status": "ready_for_production",
+  "created_at": "2026-11-16T20:41:56.411049+00:00",
+  "published_at": "2026-11-16T18:34:47+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "Thunderbirds in Formation",
+  "title": "Thunderbirds in Formation",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Thunderbirds in Formation?",
+  "angle": "Curiosidade e impacto de Thunderbirds in Formation",
+  "summary": "Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America&#8217;s 250th anniversary.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Thunderbirds in Formation? A explicação técnica revelada pela NASA News é fascinante: Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration in honor of America&#8217;s 250th anniversary. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Thunderbirds in Formation?",
+      "visual_direction": "High impact visual representing Thunderbirds in Formation, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaug",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Thunderbirds",
+    "Formation",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Thunderbirds in Formation | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

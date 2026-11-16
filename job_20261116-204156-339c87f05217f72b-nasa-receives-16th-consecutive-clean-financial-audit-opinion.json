@@ -1,0 +1,67 @@
+{
+  "id": "20261116-204156-339c87f05217f72b",
+  "status": "ready_for_production",
+  "created_at": "2026-11-16T20:41:56.411049+00:00",
+  "published_at": "2026-11-16T20:30:40+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+  "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion.",
+  "angle": "Curiosidade e impacto de NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+  "summary": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. “Our responsibility [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion.",
+      "visual_direction": "High impact visual representing NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best po",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Receives",
+    "16th",
+    "Consecutive",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

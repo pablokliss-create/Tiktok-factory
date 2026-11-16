@@ -1,0 +1,67 @@
+{
+  "id": "20261116-204156-b5da153b5d211523",
+  "status": "ready_for_production",
+  "created_at": "2026-11-16T20:41:56.411049+00:00",
+  "published_at": "2026-11-16T18:52:32+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "Sentinel-6B in Orbit Around Earth",
+  "title": "Sentinel-6B in Orbit Around Earth",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Sentinel-6B in Orbit Around Earth?",
+  "angle": "Curiosidade e impacto de Sentinel-6B in Orbit Around Earth",
+  "summary": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Sentinel-6B in Orbit Around Earth? A explicação técnica revelada pela NASA News é fascinante: Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Sentinel-6B in Orbit Around Earth?",
+      "visual_direction": "High impact visual representing Sentinel-6B in Orbit Around Earth, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Sentinel",
+    "Orbit",
+    "Around",
+    "Earth",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Sentinel-6B in Orbit Around Earth | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
