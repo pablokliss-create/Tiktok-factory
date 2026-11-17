@@ -1,0 +1,67 @@
+{
+  "id": "20261117-192658-1c08d5dcd2115111",
+  "status": "ready_for_production",
+  "created_at": "2026-11-17T19:26:58.145396+00:00",
+  "published_at": "2026-11-17T17:00:29+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+  "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA Invites Media, Public to View Roman Telescope’s First Images?",
+  "angle": "Curiosidade e impacto de NASA Invites Media, Public to View Roman Telescope’s First Images",
+  "summary": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p. PST) Monday, Dec. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA Invites Media, Public to View Roman Telescope’s First Images? A explicação técnica revelada pela NASA News é fascinante: NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p. PST) Monday, Dec. The images will showcase the unique scientific capabilities of Roman, which will soon capture deep, panoramic, never-before-seen [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA Invites Media, Public to View Roman Telescope’s First Images?",
+      "visual_direction": "High impact visual representing NASA Invites Media, Public to View Roman Telescope’s First Images, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Invites",
+    "Media",
+    "Public",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Invites Media, Public to View Roman Telescope’s First Images | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

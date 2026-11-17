@@ -1,0 +1,66 @@
+{
+  "id": "20261117-192658-2844ea0b0ae42017",
+  "status": "ready_for_production",
+  "created_at": "2026-11-17T19:26:58.145396+00:00",
+  "published_at": "2026-11-17T18:18:16+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NICER Status Updates",
+  "title": "NICER Status Updates",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NICER Status Updates.",
+  "angle": "Curiosidade e impacto de NICER Status Updates",
+  "summary": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA&#8217;s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. &#160; The mission and space station teams are now focused on plans to finalize NICER’s 8-year [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NICER Status Updates. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA&#8217;s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations. &#160; The mission and space station teams are now focused on plans to finalize NICER’s 8-year [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NICER Status Updates.",
+      "visual_direction": "High impact visual representing NICER Status Updates, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA&#8217;s NICER (Neutron star I",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NICER",
+    "Status",
+    "Updates",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NICER Status Updates | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
