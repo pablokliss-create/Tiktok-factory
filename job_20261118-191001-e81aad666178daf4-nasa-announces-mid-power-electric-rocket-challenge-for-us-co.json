@@ -1,0 +1,67 @@
+{
+  "id": "20261118-191001-e81aad666178daf4",
+  "status": "ready_for_production",
+  "created_at": "2026-11-18T19:10:01.426725+00:00",
+  "published_at": "2026-11-18T18:12:32+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+  "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces Mid-Power Electric Rocket Challenge for US Companies.",
+  "angle": "Curiosidade e impacto de NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
+  "summary": "NASA launched a new competition inviting U. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces Mid-Power Electric Rocket Challenge for US Companies. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA launched a new competition inviting U. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Announces Mid-Power Electric Rocket Challenge for US Companies.",
+      "visual_direction": "High impact visual representing NASA Announces Mid-Power Electric Rocket Challenge for US Companies, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA launched a new competition inviting U. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Announces",
+    "Power",
+    "Electric",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

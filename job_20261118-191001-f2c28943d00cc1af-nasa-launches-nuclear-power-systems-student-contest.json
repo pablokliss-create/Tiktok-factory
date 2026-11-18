@@ -1,0 +1,67 @@
+{
+  "id": "20261118-191001-f2c28943d00cc1af",
+  "status": "ready_for_production",
+  "created_at": "2026-11-18T19:10:01.426725+00:00",
+  "published_at": "2026-11-17T22:02:48+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA Launches Nuclear Power Systems Student Contest",
+  "title": "NASA Launches Nuclear Power Systems Student Contest",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA Launches Nuclear Power Systems Student Contest?",
+  "angle": "Curiosidade e impacto de NASA Launches Nuclear Power Systems Student Contest",
+  "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA Launches Nuclear Power Systems Student Contest? A explicação técnica revelada pela NASA News é fascinante: NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA Launches Nuclear Power Systems Student Contest?",
+      "visual_direction": "High impact visual representing NASA Launches Nuclear Power Systems Student Contest, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade st",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Launches",
+    "Nuclear",
+    "Power",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Launches Nuclear Power Systems Student Contest | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
