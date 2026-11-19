@@ -1,0 +1,66 @@
+{
+  "id": "20261119-191240-8ab81158a23c5547",
+  "status": "ready_for_production",
+  "created_at": "2026-11-19T19:12:40.468337+00:00",
+  "published_at": "2026-11-19T05:00:00+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "El Niño Rains Paint the Atacama",
+  "title": "El Niño Rains Paint the Atacama",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: El Niño Rains Paint the Atacama.",
+  "angle": "Curiosidade e impacto de El Niño Rains Paint the Atacama",
+  "summary": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: El Niño Rains Paint the Atacama. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: El Niño Rains Paint the Atacama.",
+      "visual_direction": "High impact visual representing El Niño Rains Paint the Atacama, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Winter precipitation helped wake dormant seeds in northern Chile, carpeting the desert with what may be the region’s most extensive flowering of the satellite era.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Rains",
+    "Paint",
+    "Atacama",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "El Niño Rains Paint the Atacama | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

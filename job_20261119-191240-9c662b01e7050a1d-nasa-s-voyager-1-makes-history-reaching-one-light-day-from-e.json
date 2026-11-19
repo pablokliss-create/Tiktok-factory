@@ -1,0 +1,67 @@
+{
+  "id": "20261119-191240-9c662b01e7050a1d",
+  "status": "ready_for_production",
+  "created_at": "2026-11-19T19:12:40.468337+00:00",
+  "published_at": "2026-11-19T14:31:15+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+  "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+  "hook": "A história real por trás de NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+  "summary": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16. 1 billion miles (25.",
+  "script": "A história real por trás de NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16. 1 billion miles (25. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Voyager",
+    "Makes",
+    "History",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
