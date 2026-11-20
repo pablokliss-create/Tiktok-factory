@@ -1,0 +1,67 @@
+{
+  "id": "20261120-185251-08edab7fea287def",
+  "status": "ready_for_production",
+  "created_at": "2026-11-20T18:52:51.214476+00:00",
+  "published_at": "2026-11-20T15:53:24+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA’s Curiosity Mars Rover Collects Samples",
+  "title": "NASA’s Curiosity Mars Rover Collects Samples",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Curiosity Mars Rover Collects Samples?",
+  "angle": "Curiosidade e impacto de NASA’s Curiosity Mars Rover Collects Samples",
+  "summary": "16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Curiosity Mars Rover Collects Samples? A explicação técnica revelada pela NASA News é fascinante: 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Curiosity Mars Rover Collects Samples?",
+      "visual_direction": "High impact visual representing NASA’s Curiosity Mars Rover Collects Samples, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Curiosity",
+    "Mars",
+    "Rover",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s Curiosity Mars Rover Collects Samples | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

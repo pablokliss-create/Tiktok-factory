@@ -1,0 +1,67 @@
+{
+  "id": "20261120-185251-c526619b0aa54aa8",
+  "status": "ready_for_production",
+  "created_at": "2026-11-20T18:52:51.214476+00:00",
+  "published_at": "2026-11-20T14:15:21+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+  "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: SpaceX lenders don’t want Elon Musk launching their collateral into space.",
+  "angle": "Curiosidade e impacto de SpaceX lenders don’t want Elon Musk launching their collateral into space",
+  "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: SpaceX lenders don’t want Elon Musk launching their collateral into space. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: SpaceX lenders don’t want Elon Musk launching their collateral into space.",
+      "visual_direction": "High impact visual representing SpaceX lenders don’t want Elon Musk launching their collateral into space, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "SpaceX",
+    "lenders",
+    "want",
+    "Elon",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "SpaceX lenders don’t want Elon Musk launching their collateral into space | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
