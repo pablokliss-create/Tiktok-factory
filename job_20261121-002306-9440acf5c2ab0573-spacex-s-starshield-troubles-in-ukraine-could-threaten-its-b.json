@@ -1,0 +1,67 @@
+{
+  "id": "20261121-002306-9440acf5c2ab0573",
+  "status": "ready_for_production",
+  "created_at": "2026-11-21T00:23:06.986279+00:00",
+  "published_at": "2026-11-20T22:16:51+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+  "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: SpaceX's Starshield troubles in Ukraine could threaten its broader military business.",
+  "angle": "Curiosidade e impacto de SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+  "summary": "\"Explain the changes that were made to the Starshield service in October 2026.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: SpaceX's Starshield troubles in Ukraine could threaten its broader military business. De acordo com relatórios publicados pela Ars Technica, os novos dados confirmam: \"Explain the changes that were made to the Starshield service in October 2026. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: SpaceX's Starshield troubles in Ukraine could threaten its broader military business.",
+      "visual_direction": "High impact visual representing SpaceX's Starshield troubles in Ukraine could threaten its broader military business, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"Explain the changes that were made to the Starshield service in October 2026.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "SpaceX",
+    "Starshield",
+    "troubles",
+    "Ukraine",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

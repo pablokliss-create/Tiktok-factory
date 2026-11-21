@@ -1,0 +1,67 @@
+{
+  "id": "20261121-002306-8003f4b5c42f49b7",
+  "status": "ready_for_production",
+  "created_at": "2026-11-21T00:23:06.986279+00:00",
+  "published_at": "2026-11-20T20:46:14+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "New NASA Seed Funding Primes Small Businesses for Innovation",
+  "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: New NASA Seed Funding Primes Small Businesses for Innovation.",
+  "angle": "Curiosidade e impacto de New NASA Seed Funding Primes Small Businesses for Innovation",
+  "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: New NASA Seed Funding Primes Small Businesses for Innovation. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: New NASA Seed Funding Primes Small Businesses for Innovation.",
+      "visual_direction": "High impact visual representing New NASA Seed Funding Primes Small Businesses for Innovation, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U. NASA’s Small Bus",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Seed",
+    "Funding",
+    "Primes",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "New NASA Seed Funding Primes Small Businesses for Innovation | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
