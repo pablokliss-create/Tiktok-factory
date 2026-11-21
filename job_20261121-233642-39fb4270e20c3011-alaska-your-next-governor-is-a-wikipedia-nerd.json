@@ -1,0 +1,67 @@
+{
+  "id": "20261121-233642-39fb4270e20c3011",
+  "status": "ready_for_production",
+  "created_at": "2026-11-21T23:36:42.852951+00:00",
+  "published_at": "2026-11-21T15:18:29+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "Alaska, your next governor is a Wikipedia nerd",
+  "title": "Alaska, your next governor is a Wikipedia nerd",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Alaska, your next governor is a Wikipedia nerd.",
+  "angle": "Curiosidade e impacto de Alaska, your next governor is a Wikipedia nerd",
+  "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Alaska, your next governor is a Wikipedia nerd. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Alaska, your next governor is a Wikipedia nerd.",
+      "visual_direction": "High impact visual representing Alaska, your next governor is a Wikipedia nerd, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Alaska",
+    "your",
+    "next",
+    "governor",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Alaska, your next governor is a Wikipedia nerd | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

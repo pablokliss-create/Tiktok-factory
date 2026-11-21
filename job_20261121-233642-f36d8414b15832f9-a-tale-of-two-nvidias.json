@@ -1,0 +1,65 @@
+{
+  "id": "20261121-233642-f36d8414b15832f9",
+  "status": "ready_for_production",
+  "created_at": "2026-11-21T23:36:42.852951+00:00",
+  "published_at": "2026-11-21T21:07:42+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "curiosidades_tech",
+  "topic": "A tale of two Nvidias",
+  "title": "A tale of two Nvidias",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: A tale of two Nvidias.",
+  "angle": "Curiosidade e impacto de A tale of two Nvidias",
+  "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: A tale of two Nvidias. De acordo com relatórios publicados pela TechCrunch, os novos dados confirmam: We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: A tale of two Nvidias.",
+      "visual_direction": "High impact visual representing A tale of two Nvidias, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "tale",
+    "Nvidias",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "A tale of two Nvidias | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
