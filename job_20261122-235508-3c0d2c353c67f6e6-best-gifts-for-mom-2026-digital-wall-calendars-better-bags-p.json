@@ -1,0 +1,67 @@
+{
+  "id": "20261122-235508-3c0d2c353c67f6e6",
+  "status": "ready_for_production",
+  "created_at": "2026-11-22T23:55:08.757227+00:00",
+  "published_at": "2026-11-22T11:02:00+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+  "title": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More.",
+  "angle": "Curiosidade e impacto de Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More",
+  "summary": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More. De acordo com relatórios publicados pela Wired, os novos dados confirmam: From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More.",
+      "visual_direction": "High impact visual representing Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Best",
+    "Gifts",
+    "2026",
+    "Digital",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

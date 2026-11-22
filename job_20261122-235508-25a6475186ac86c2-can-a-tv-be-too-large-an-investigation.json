@@ -1,0 +1,65 @@
+{
+  "id": "20261122-235508-25a6475186ac86c2",
+  "status": "ready_for_production",
+  "created_at": "2026-11-22T23:55:08.757227+00:00",
+  "published_at": "2026-11-22T15:00:00+00:00",
+  "language": "pt-BR",
+  "score": 75,
+  "format": "STORY",
+  "category": "curiosidades_tech",
+  "topic": "Can a TV be too large? An investigation",
+  "title": "Can a TV be too large? An investigation",
+  "hook": "A história real por trás de Can a TV be too large? An investigation é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de Can a TV be too large? An investigation",
+  "summary": "Can a TV be too large. This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+  "script": "A história real por trás de Can a TV be too large? An investigation é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela TechCrunch: Can a TV be too large. This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de Can a TV be too large? An investigation é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing Can a TV be too large? An investigation, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Can a TV be too large. This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "large",
+    "investigation",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Can a TV be too large? An investigation | Fatos verificados via TechCrunch",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+    }
+  ],
+  "source": "TechCrunch",
+  "source_url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
