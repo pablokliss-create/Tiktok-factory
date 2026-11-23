@@ -1,0 +1,67 @@
+{
+  "id": "20261123-221619-9ba9b9d08d92ee56",
+  "status": "ready_for_production",
+  "created_at": "2026-11-23T22:16:19.010424+00:00",
+  "published_at": "2026-11-23T15:00:00+00:00",
+  "language": "pt-BR",
+  "score": 105,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+  "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution?",
+  "angle": "Curiosidade e impacto de NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+  "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution? A explicação técnica revelada pela NASA News é fascinante: NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution, mid-infrared observation from Webb […]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution?",
+      "visual_direction": "High impact visual representing NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that re",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Webb",
+    "Shows",
+    "Supernova",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
