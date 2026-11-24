@@ -1,0 +1,67 @@
+{
+  "id": "20261124-205434-1a335a8cbd70ee68",
+  "status": "ready_for_production",
+  "created_at": "2026-11-24T20:54:34.765453+00:00",
+  "published_at": "2026-11-24T13:58:28+00:00",
+  "language": "pt-BR",
+  "score": 100,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+  "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA Hubble’s New View of NGC 4394 Raises the Bar.",
+  "angle": "Curiosidade e impacto de NASA Hubble’s New View of NGC 4394 Raises the Bar",
+  "summary": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA Hubble’s New View of NGC 4394 Raises the Bar. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA Hubble’s New View of NGC 4394 Raises the Bar.",
+      "visual_direction": "High impact visual representing NASA Hubble’s New View of NGC 4394 Raises the Bar, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Hubble",
+    "View",
+    "4394",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Hubble’s New View of NGC 4394 Raises the Bar | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

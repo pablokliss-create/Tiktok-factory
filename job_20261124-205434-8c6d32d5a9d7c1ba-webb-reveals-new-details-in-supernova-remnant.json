@@ -1,0 +1,67 @@
+{
+  "id": "20261124-205434-8c6d32d5a9d7c1ba",
+  "status": "ready_for_production",
+  "created_at": "2026-11-24T20:54:34.765453+00:00",
+  "published_at": "2026-11-24T16:51:27+00:00",
+  "language": "pt-BR",
+  "score": 105,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Webb Reveals New Details in Supernova Remnant",
+  "title": "Webb Reveals New Details in Supernova Remnant",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Webb Reveals New Details in Supernova Remnant.",
+  "angle": "Curiosidade e impacto de Webb Reveals New Details in Supernova Remnant",
+  "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Webb Reveals New Details in Supernova Remnant. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Webb Reveals New Details in Supernova Remnant.",
+      "visual_direction": "High impact visual representing Webb Reveals New Details in Supernova Remnant, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. Remnants like these are the c",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Webb",
+    "Reveals",
+    "Details",
+    "Supernova",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Webb Reveals New Details in Supernova Remnant | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

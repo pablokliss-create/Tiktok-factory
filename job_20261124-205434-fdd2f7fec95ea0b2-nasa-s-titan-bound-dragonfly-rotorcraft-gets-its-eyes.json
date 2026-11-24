@@ -1,0 +1,67 @@
+{
+  "id": "20261124-205434-fdd2f7fec95ea0b2",
+  "status": "ready_for_production",
+  "created_at": "2026-11-24T20:54:34.765453+00:00",
+  "published_at": "2026-11-24T15:44:38+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+  "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes.",
+  "angle": "Curiosidade e impacto de NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+  "summary": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven cameras designed to characterize Titan’s surface at multiple scales during […]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes.",
+      "visual_direction": "High impact visual representing NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming ",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Titan",
+    "Bound",
+    "Dragonfly",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
