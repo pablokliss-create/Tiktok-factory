@@ -1,0 +1,67 @@
+{
+  "id": "20261125-201503-66399442408d3819",
+  "status": "ready_for_production",
+  "created_at": "2026-11-25T20:15:03.796964+00:00",
+  "published_at": "2026-11-25T16:47:29+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+  "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard.",
+  "angle": "Curiosidade e impacto de Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+  "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard.",
+      "visual_direction": "High impact visual representing Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, an",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Childhood",
+    "Career",
+    "Come",
+    "Full",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

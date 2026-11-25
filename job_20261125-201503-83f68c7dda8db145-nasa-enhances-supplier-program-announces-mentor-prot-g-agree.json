@@ -1,0 +1,67 @@
+{
+  "id": "20261125-201503-83f68c7dda8db145",
+  "status": "ready_for_production",
+  "created_at": "2026-11-25T20:15:03.796964+00:00",
+  "published_at": "2026-11-25T19:06:56+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "WHY",
+  "category": "espaco",
+  "topic": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+  "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement?",
+  "angle": "Curiosidade e impacto de NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+  "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;].",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement? A explicação técnica revelada pela NASA News é fascinante: How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE [&#8230;]. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement?",
+      "visual_direction": "High impact visual representing NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Enhances",
+    "Supplier",
+    "Program",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
