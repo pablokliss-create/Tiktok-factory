@@ -1,0 +1,67 @@
+{
+  "id": "20261126-195359-456e9fdb5f20ed13",
+  "status": "ready_for_production",
+  "created_at": "2026-11-26T19:53:59.044597+00:00",
+  "published_at": "2026-11-25T22:36:45+00:00",
+  "language": "pt-BR",
+  "score": 90,
+  "format": "WHY",
+  "category": "curiosidades_tech",
+  "topic": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+  "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre European spacecraft finds chaotic scene after asteroid deflection experiment?",
+  "angle": "Curiosidade e impacto de European spacecraft finds chaotic scene after asteroid deflection experiment",
+  "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre European spacecraft finds chaotic scene after asteroid deflection experiment? A explicação técnica revelada pela Ars Technica é fascinante: \"DART made a really, really large mess. However, we didn’t really know what kind of mess. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre European spacecraft finds chaotic scene after asteroid deflection experiment?",
+      "visual_direction": "High impact visual representing European spacecraft finds chaotic scene after asteroid deflection experiment, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "European",
+    "spacecraft",
+    "finds",
+    "chaotic",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "European spacecraft finds chaotic scene after asteroid deflection experiment | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

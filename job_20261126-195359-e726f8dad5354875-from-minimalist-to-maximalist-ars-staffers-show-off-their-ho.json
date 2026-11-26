@@ -1,0 +1,67 @@
+{
+  "id": "20261126-195359-e726f8dad5354875",
+  "status": "ready_for_production",
+  "created_at": "2026-11-26T19:53:59.044597+00:00",
+  "published_at": "2026-11-26T12:00:14+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "WHY",
+  "category": "curiosidades_tech",
+  "topic": "From minimalist to maximalist: Ars staffers show off their home offices",
+  "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre From minimalist to maximalist: Ars staffers show off their home offices?",
+  "angle": "Curiosidade e impacto de From minimalist to maximalist: Ars staffers show off their home offices",
+  "summary": "Our home offices range from tasteful to \"please explain yourself.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre From minimalist to maximalist: Ars staffers show off their home offices? A explicação técnica revelada pela Ars Technica é fascinante: Our home offices range from tasteful to \"please explain yourself. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre From minimalist to maximalist: Ars staffers show off their home offices?",
+      "visual_direction": "High impact visual representing From minimalist to maximalist: Ars staffers show off their home offices, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Our home offices range from tasteful to \"please explain yourself.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "From",
+    "minimalist",
+    "maximalist",
+    "staffers",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "From minimalist to maximalist: Ars staffers show off their home offices | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

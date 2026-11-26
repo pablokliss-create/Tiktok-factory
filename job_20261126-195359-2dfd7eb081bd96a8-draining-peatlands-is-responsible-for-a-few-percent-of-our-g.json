@@ -1,0 +1,67 @@
+{
+  "id": "20261126-195359-2dfd7eb081bd96a8",
+  "status": "ready_for_production",
+  "created_at": "2026-11-26T19:53:59.044597+00:00",
+  "published_at": "2026-11-26T12:15:42+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "WHY",
+  "category": "curiosidades_tech",
+  "topic": "Draining peatlands is responsible for a few percent of our global warming",
+  "title": "Draining peatlands is responsible for a few percent of our global warming",
+  "hook": "Você já se perguntou por que todo mundo está comentando sobre Draining peatlands is responsible for a few percent of our global warming?",
+  "angle": "Curiosidade e impacto de Draining peatlands is responsible for a few percent of our global warming",
+  "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+  "script": "Você já se perguntou por que todo mundo está comentando sobre Draining peatlands is responsible for a few percent of our global warming? A explicação técnica revelada pela Ars Technica é fascinante: Detailed estimate going back to 1800 shows how much carbon is being liberated. O detalhe crucial é o impacto real que essa descoberta causa na infraestrutura que usamos todos os dias. Você acha que isso vai transformar o setor nos próximos meses?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Você já se perguntou por que todo mundo está comentando sobre Draining peatlands is responsible for a few percent of our global warming?",
+      "visual_direction": "High impact visual representing Draining peatlands is responsible for a few percent of our global warming, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Draining",
+    "peatlands",
+    "responsible",
+    "percent",
+    "curiosidades_tech",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "Draining peatlands is responsible for a few percent of our global warming | Fatos verificados via Ars Technica",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#curiosidades_tech",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+    }
+  ],
+  "source": "Ars Technica",
+  "source_url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
