@@ -1,0 +1,67 @@
+{
+  "id": "20261127-194139-c515865e9396a10b",
+  "status": "ready_for_production",
+  "created_at": "2026-11-27T19:41:39.809963+00:00",
+  "published_at": "2026-11-27T14:22:00+00:00",
+  "language": "pt-BR",
+  "score": 95,
+  "format": "STORY",
+  "category": "espaco",
+  "topic": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+  "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+  "hook": "A história real por trás de NASA’s NG-25 Mission to Launch Pioneering Space Crops Research é muito mais impressionante do que parece.",
+  "angle": "Curiosidade e impacto de NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+  "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […].",
+  "script": "A história real por trás de NASA’s NG-25 Mission to Launch Pioneering Space Crops Research é muito mais impressionante do que parece. Tudo começou com uma série de eventos documentados pela NASA News: NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]. O resultado final surpreendeu até mesmo os especialistas envolvidos. Qual lição você tira dessa reviravolta?",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "A história real por trás de NASA’s NG-25 Mission to Launch Pioneering Space Crops Research é muito mais impressionante do que parece.",
+      "visual_direction": "High impact visual representing NASA’s NG-25 Mission to Launch Pioneering Space Crops Research, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Serv",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "NASA",
+    "Mission",
+    "Launch",
+    "Pioneering",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

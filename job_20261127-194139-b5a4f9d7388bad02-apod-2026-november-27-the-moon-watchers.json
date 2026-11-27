@@ -1,0 +1,67 @@
+{
+  "id": "20261127-194139-b5a4f9d7388bad02",
+  "status": "ready_for_production",
+  "created_at": "2026-11-27T19:41:39.809963+00:00",
+  "published_at": "2026-11-27T05:05:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "espaco",
+  "topic": "APOD: 2026 November 27 – The Moon Watchers",
+  "title": "APOD: 2026 November 27 – The Moon Watchers",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 27 – The Moon Watchers.",
+  "angle": "Curiosidade e impacto de APOD: 2026 November 27 – The Moon Watchers",
+  "summary": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers [&#8230;].",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 27 – The Moon Watchers. De acordo com relatórios publicados pela NASA News, os novos dados confirmam: APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos. Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Moon Watchers [&#8230;]. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: APOD: 2026 November 27 – The Moon Watchers.",
+      "visual_direction": "High impact visual representing APOD: 2026 November 27 – The Moon Watchers, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "APOD",
+    "2026",
+    "November",
+    "Moon",
+    "espaco",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "APOD: 2026 November 27 – The Moon Watchers | Fatos verificados via NASA News",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#espaco",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "NASA News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/"
+    }
+  ],
+  "source": "NASA News",
+  "source_url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20261127-194139-cb0f3f33dc016940",
+  "status": "ready_for_production",
+  "created_at": "2026-11-27T19:41:39.809963+00:00",
+  "published_at": "2026-11-27T07:00:00+00:00",
+  "language": "pt-BR",
+  "score": 85,
+  "format": "NOW",
+  "category": "seguranca_internet",
+  "topic": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "hook": "Isso acabou de acontecer na ciência e tecnologia: A New Breed of Chip Runs AI Models Using Waves of Light.",
+  "angle": "Curiosidade e impacto de A New Breed of Chip Runs AI Models Using Waves of Light",
+  "summary": "German company Q. ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+  "script": "Isso acabou de acontecer na ciência e tecnologia: A New Breed of Chip Runs AI Models Using Waves of Light. De acordo com relatórios publicados pela Wired, os novos dados confirmam: German company Q. ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. Isso muda completamente o cenário porque abre portas para aplicações que antes pareciam distantes. Acompanhe o canal para as próximas atualizações desta história.",
+  "scene_plan": [
+    {
+      "scene": 1,
+      "duration_seconds": 6,
+      "voice_line": "Isso acabou de acontecer na ciência e tecnologia: A New Breed of Chip Runs AI Models Using Waves of Light.",
+      "visual_direction": "High impact visual representing A New Breed of Chip Runs AI Models Using Waves of Light, cinematic lighting."
+    },
+    {
+      "scene": 2,
+      "duration_seconds": 18,
+      "voice_line": "German company Q. ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "visual_direction": "Technical details, schematics, motion graphics or real-world footage."
+    },
+    {
+      "scene": 3,
+      "duration_seconds": 12,
+      "voice_line": "O ponto central é o impacto prático dessa revelação para o futuro imediato.",
+      "visual_direction": "Modern futuristic environment, dynamic transitions."
+    }
+  ],
+  "visual_keywords": [
+    "Breed",
+    "Chip",
+    "Runs",
+    "Models",
+    "seguranca_internet",
+    "technology",
+    "futuristic"
+  ],
+  "caption": "A New Breed of Chip Runs AI Models Using Waves of Light | Fatos verificados via Wired",
+  "hashtags": [
+    "#curiosidades",
+    "#tecnologia",
+    "#ciencia",
+    "#seguranca_internet",
+    "#fatosreais"
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    }
+  ],
+  "source": "Wired",
+  "source_url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+  "production": {
+    "engine": "MoneyPrinterTurbo",
+    "voice_name": "pt-BR-AntonioNeural",
+    "video_aspect": "9:16",
+    "duration_target_seconds": 45
+  }
+}
